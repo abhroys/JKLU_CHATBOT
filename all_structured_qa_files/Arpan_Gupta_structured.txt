@@ -1,0 +1,7 @@
+
+    Q: Who is Dr Arpan Gupta at JKLU?
+    A: Dr Arpan Gupta is an Assistant Professor in the Department of Computer Science at JKLU. He holds a PhD from LNMIIT, Jaipur, and his research focuses on computer vision and deep learning, particularly in activity recognition in sports videos.
+
+    Q: What are Dr Arpan Gupta's research interests?
+    A: His research interests include video activity recognition, deep neural networks, and computer vision.
+    

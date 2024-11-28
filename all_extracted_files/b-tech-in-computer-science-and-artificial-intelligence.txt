@@ -1,0 +1,108 @@
+Objective
+This program aims to provide a strong foundation in Probability and Statistics, Artificial Intelligence and Machine Learning technologies along with courses in Computer science, Design and Management. The students will be exposed to cutting- edge AI technologies such as Large Language Models (ChatGPT, BARD, LLAMA), Computer Vision, Natural Language Processing, Reinforcement Learning and Deep Learning. A mandatory two months Practice School-1 at the end of the second year and six months Practice School-2 in the final year allows them to get practical knowledge and valuable insight into the world of Computer Science and AI. Well-equipped labs and research facilities along with an excellent faculty further provide the necessary pathways to aid the process of learning
+
+Career Prospects
+Designed to create innovators of tomorrow, this programme prepares the students to take on challenging careers in the application of AI in varied fields such as HealthCare, Analytics, FinTech, Transportation and E- commerce etc.
+
+Curriculum
+Semester 1
+Programming -I
+Fundamentals of Electrical and Electronics
+Applied Physics/Environmental Studies
+Calculus
+Design-1
+Fundamentals of Communication
+Semester 2
+Programming -II
+Digital Circuits and Systems
+Applied Physics/Environmental Studies
+Linear Algebra and Differential Equations
+Design-2
+Critical Thinking and Storytelling Design -I
+Semester 3
+Data Structures and Algorithms
+Computer Organisation and Architecture
+Database Systems
+Probability and Statistics
+Management-I
+Perspectives on Contemporary Issues
+Semester 4
+Design and Analysis of Algorithms
+Machine Learning
+Operating System
+Optimization for Computer Science
+Management -II
+Communication and Identity
+Summer Break
+
+Practice School -1
+Semester 5
+Discrete Mathematics
+ Artificial Intelligence
+ DE-I
+ DE-II
+ OE-I/SEE1(2)+SEE2(2)
+Understanding and Managing Conflict
+Semester 6
+Reinforcement Learning
+Minor Project
+DE-III
+DE-IV
+OE -II/SEE3(2)+SEE4(2)
+Critical Thinking for Decisions at Workplace
+Semester 7
+Project
+DE-V
+OE-III
+OE -IV
+Semester 8
+Practice School – II /Entrepreneurial Project/Research  Project/Semester at a partner University
+Specializations
+Specializations allow students to acquire advanced skills and knowledge in a specific area of their main program. The curriculum for the first two years remains the same for all students, providing a solid foundation in core engineering principles.
+
+In their third year, students can choose to specialize in one of the following areas, requiring the completion of at least three courses within the specialization:
+Data Science
+Foundations of Data Science
+Natural Language Processing
+Business Analytics
+Data Visualisation
+
+Cloud Computing
+Parallel and distributed computing
+Cloud computing architecture
+Cloud Services and technologies
+Fog and edge networks
+
+Big Data Analytics
+Big data storage and architecture
+Multi-dimensional and advanced databases
+Mining massive data-sets
+Social network analysis and business analytics
+
+Cyber Security
+Introduction to information security
+Fundamentals of cyber security
+Secure Analytics and Coding
+Cyber Forensics
+
+VLSI
+CMOS VLSI
+VLSI Physical Design
+VLSI testing and verification
+IC Fabrication Technology/ Real time operating systems
+
+
+
+Minors (Interdisciplinary)
+For students interested in expanding their horizons beyond their primary field of engineering, minors offer a valuable opportunity. Minors complement the main degree and can enhance employability, facilitate interdisciplinary learning, or serve as a stepping stone to further education.
+
+ 
+
+The minors currently offered at the institute include:
+
+Design
+Banking in Fintech
+Entrepreneurship
+Robotics
+Mathematics
+Successfully completed specializations and minors are prominently noted on the students’ degree certificates alongside their main field of study. This recognition highlights their additional qualifications and can significantly enhance their profiles for potential employers or academic opportunities.

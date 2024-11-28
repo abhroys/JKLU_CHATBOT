@@ -1,0 +1,7 @@
+
+    Q: Who is Dr Surbhi Chhabra at JKLU?
+    A: Dr Surbhi Chhabra is an Assistant Professor of Electronics and Communication Engineering at JKLU. She holds a PhD from The LNM Institute of Information Technology, Jaipur, where her research focused on Hardware Security.
+
+    Q: What are Dr Surbhi Chhabra's research interests?
+    A: Her research interests include hardware security, digital system design using FPGAs, and secure data transmission in IoT applications.
+    

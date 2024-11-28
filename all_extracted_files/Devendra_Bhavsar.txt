@@ -1,0 +1,45 @@
+Faculty Name: Devendra Bhavsar
+
+--- Education ---
+Currently pursuing PhD in the area of Big Data Analytics.M.Tech. (Computer Science and Engineering) from IIT, Bombay in 2009.B.E. (Computer Science) from Ujjain Engineering College, Ujjain in 2006.
+
+--- Experience ---
+Devendra Bhavsar is Assistant Professor in the Department of Computer Science Engineering. He completed his M. Tech. in Computer Science & Engineering from IIT, Bombay and B.E. in Computer Science from Ujjain Engineering College, Ujjain. He has almost 11 years of academic and research experience. He is currently pursuing his PhD in the area of Big Data Analytics. He is a CISCO Certified Academy Instructor (CCAI).He has published several research papers in refereed international and national journals (ESCI/ Scopus indexed/ Web of science/ UGC indexed), and conference proceedings. During his academic career, he has held various administrative positions such as Academic Coordinator IT, CISCO Networking Academy In-Charge, Chief Warden, member of Anti-ragging Committee, member of Library Committee, Sports Club In-charge to name a few. He has been appointed as paper setter and external examiner for the viva-voce exams of B.Tech./ M.Tech. students at various universities. Prior to joining JK Lakshmipat University, he was associated with Govt. Ujjain Engineering College Ujjain and ICFAI University, Dehradun.
+
+--- Teaching Interests ---
+Data Structures and algorithms
+Computer Networks
+Cyber Security
+Advance Algorithms
+Network Security
+Object oriented Programming
+
+--- Research Interests ---
+Wireless Sensor Networks and Algorithms
+Edge Computing
+
+--- Honors, Awards, and Affiliations ---
+CISCO Certified Academy Instructor
+(CCAI)
+and CISCO certified Network associate
+(CCNA)
+from CISCO.
+Got Ministry of Human Resource Development (MHRD) scholarship during M.Tech. From
+IIT Bombay (2007-2009).
+Best Faculty Award in 2017 by Lions Club Jaipur.
+Got awarded for Five Year of service by CISCO Networking Academy.
+Invited as session chair in the 2013 International Conferences on Computer Graphics, Visualization, Computer Vision, and Game Technology (VisioGame 2013) held during ) December 21-22, 2013 at JAKARTA, Indonesia.
+Appointed as Editorial Board Member of HCTL Open International Journal of Technology Innovations and Research (IJTIR) [ISSN (Online): 2321-1814]
+Member of International Association of Computer Science and Information Technology, Singapore (IACSIT)
+Member of Association for Computing Machinery (ACM)
+Member of International Association of Engineers (IAENG)
+
+--- Selected Publications ---
+Devendra Bhavsar and J.P.Sharma, “Performance analysis of voice traffic over WiMAX using Qualnet
+Simulator”, published in IEEE International Conference on Computational Intelligence and Computing
+Research (ICCIC), Coimbatore, 2014, pp. 1-4.doi: 10.1109/ICCIC.2014.7238449.
+J.P.Sharma, Devendra Bhavsar, Laxmi Chand Sharma,” A Scientometric Analysis of Smart Grid Implementation at Distribution Feeder”, published in Advances in Intelligent Systems and Computing, ICT4SD 2015 Volume 2, DOI:10.1007/978-981-10-0135-2.
+Devendra Bhavsar, Mrunalini Badnakhe “E-learning Paradigm for Teaching Enhancements” Presented in International Conferences on Computer Graphics, Visualization, Computer Vision, and Game Technology (“VisioGame 2013”)December 21-22, 2013 JAKARTA, Indonesia. Published in Advances in Intelligent Systems Research Journal (AISR Journal) ISSN 1951 6851
+Prashant Tiwari; Varun Prakash Saxena; Raj Gaurav Mishra; Devendra Bhavsar, Wireless Sensor Networks: Introduction, Advantages, Applications and Research Challenges, HCTL Open International Journal of Technology Innovations and Research (IJTIR), Volume 14, April 2015, eISSN: 2321-1814, ISBN (Print): 978-1-62951-946-3
+Prashant Tiwari; Varun Prakash Saxena; Raj Gaurav Mishra; Devendra Bhavsar, A Survey of Localization Methods and Techniques in Wireless Sensor Networks, published in HCTL Open International Journal of Technology Innovations and Research (IJTIR), Volume 14, April 2015, eISSN: 2321-1814, ISBN (Print): 978-1-62951-946-3.
+

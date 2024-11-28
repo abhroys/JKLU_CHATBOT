@@ -1,0 +1,25 @@
+Faculty Name: Ridhma
+
+--- Education ---
+PhD (Computer Science & Engineering) from Punjab Engineering College, Chandigarh (Thesis submitted)M.Tech. (Computer Science & Engineering) from Punjab Engineering College, Chandigarh B.E (Computer Science & Engineering) from University Institute of Engineering and Technology (UIET), Panjab University, Chandigarh
+
+--- Experience ---
+Dr. Ridhma is Assistant Professor in the Department of Computer Science and Engineering at Institute of Engineering and Technology, JKLU. She completed her B.E. in Computer Science in 2015 from Panjab University and subsequently her M.Tech. in Computer Science in 2017 from Punjab Engineering College, Chandigarh. Dr. Ridhma has submitted her PhD thesis at Punjab Engineering College, Chandigarh. Her research interest areas include deep learning, machine learning, computer vision and image processing. She has taken labs of various courses during her PhD tenure at Punjab Engineering College, Chandigarh.
+
+--- Teaching Interests ---
+Machine Learning Operating System
+
+--- Research Interests ---
+Deep Learning
+Machine Learning
+Image Processing Computer Vision
+
+--- Honors, Awards, and Affiliations ---
+UGC-NET fellowship during PhD tenure (Punjab Engineering College, Chandigarh) GATE scholarship during M.Tech at Punjab Engineering College, Chandigarh
+
+--- Selected Publications ---
+Ridhma, , Kaur, M, Sofat, S, Chouhan, DK, Prakash, M. “Automated sulcus depth measurement on axial knee MR images”, 7th International Conference on Computer Vision and Image Processing 2022, VNIT Nagpur
+Ridhma, , Kaur, M, Sofat, S, Chouhan, DK, Prakash, M. “Automated measurement of sulcus angle on axial knee magnetic resonance images.” International Journal of Imaging Systems &amp; Technology. 2022; 32(1): 251–265.
+Ridhma, , Kaur, M, Sofat, S, Chouhan, DK. “Review of automated segmentation approaches for knee images.” IET Image Processing. 2021; 15: 302– 324. (One of the top downloaded article from the period 01 January 2019 to 31 December 2020)
+Ridhma and S. Rani, &quot;Infrastructure based routing protocols in vehicular ad hoc network: A review,&quot; 2017 International Conference on Computing, Communication and Automation (ICCCA), 2017, pp. 476-481
+

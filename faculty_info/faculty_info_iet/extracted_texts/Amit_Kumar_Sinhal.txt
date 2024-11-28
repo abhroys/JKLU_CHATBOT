@@ -1,0 +1,35 @@
+Faculty Name: Amit Kumar Sinhal
+
+--- Education ---
+• Post Doctoral from University of Louisiana at Lafayette, USA• M.Tech. and PhD (Computer Science and Engineering) from Rajeev Gandhi Technical University, Bhopal (M.P.), India.• B.E. (Computer Engineering) from Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat, India.
+
+--- Experience ---
+Amit Kumar Sinhal is Professor of Computer Science and Engineering at the Institute of Engineering and Technology, JKLU. An alumnus of Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat and Rajeev Gandhi Technical University, Bhopal;  Sinhal has more than two decades of experience in Research, Teaching and IT Industry.He has worked in Atlanta, USA for an on-site project of CoreCard Inc. His research interest includes Software Engineering, Soft Computing, AI, ML and NLP. He has filed for two patents and is currently serving as Editor-in-chief of Scopus Indexed International Journal IJETAE. He has four book Chapters and one book to his credit. He has organised many international conferences and FDPs and published many research papers in international journals.
+
+--- Teaching Interests ---
+AI and Machine Learning
+Soft Computing
+Software Engineering
+Data Mining
+
+--- Research Interests ---
+An Advanced Unequal Power Allocation for Image Transmission with Chaotic Communication, SSRN Electronic Journal, 3rd International Conference on Internet of Things and Connected Technologies (ICIoTCT), Jan 2018.
+An Approach for Hyper spectral Image Classification by Optimising SVM using Self Organising Map, Journal of Computational Science, Elsevier B.V., Jul 2017.
+Block Based Text Data Partition with RC4 Encryption for Text Data Security, International Journal of Adva nced Computer Research, Vol. 24, No. 6, pp. 107-113, 2016.
+Frequent Document Mining Algorithm with Clustering, International Journal of Computer Science and Network Security (IJCSNS), Vol. 15, No. 3, pp. 5-9, 2015.
+A Novel Fuzzy based Approach for Effort Estimation in Software Development in ACM SIGSOFT Software Engineering Notes, Vol. 38, Issue 5, pp. 1-6, 2013.
+
+--- Honors, Awards, and Affiliations ---
+An Advanced Unequal Power Allocation for Image Transmission with Chaotic Communication, SSRN Electronic Journal, 3rd International Conference on Internet of Things and Connected Technologies (ICIoTCT), Jan 2018.
+An Approach for Hyper spectral Image Classification by Optimising SVM using Self Organising Map, Journal of Computational Science, Elsevier B.V., Jul 2017.
+Block Based Text Data Partition with RC4 Encryption for Text Data Security, International Journal of Adva nced Computer Research, Vol. 24, No. 6, pp. 107-113, 2016.
+Frequent Document Mining Algorithm with Clustering, International Journal of Computer Science and Network Security (IJCSNS), Vol. 15, No. 3, pp. 5-9, 2015.
+A Novel Fuzzy based Approach for Effort Estimation in Software Development in ACM SIGSOFT Software Engineering Notes, Vol. 38, Issue 5, pp. 1-6, 2013.
+
+--- Selected Publications ---
+An Advanced Unequal Power Allocation for Image Transmission with Chaotic Communication, SSRN Electronic Journal, 3rd International Conference on Internet of Things and Connected Technologies (ICIoTCT), Jan 2018.
+An Approach for Hyper spectral Image Classification by Optimising SVM using Self Organising Map, Journal of Computational Science, Elsevier B.V., Jul 2017.
+Block Based Text Data Partition with RC4 Encryption for Text Data Security, International Journal of Adva nced Computer Research, Vol. 24, No. 6, pp. 107-113, 2016.
+Frequent Document Mining Algorithm with Clustering, International Journal of Computer Science and Network Security (IJCSNS), Vol. 15, No. 3, pp. 5-9, 2015.
+A Novel Fuzzy based Approach for Effort Estimation in Software Development in ACM SIGSOFT Software Engineering Notes, Vol. 38, Issue 5, pp. 1-6, 2013.
+

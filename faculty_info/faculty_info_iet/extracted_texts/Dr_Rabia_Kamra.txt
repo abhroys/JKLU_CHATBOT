@@ -1,0 +1,37 @@
+Faculty Name: Dr Rabia Kamra
+
+--- Education ---
+PhD from IIT Delhi.M.Sc. Hons. (Mathematics) from Punjab University, Chandigarh.
+
+--- Experience ---
+Dr. Kamra is Assistant Professor in the Department of Science and Liberal Arts at the Institute of Engineering and Technology, JKLU. She obtained her PhD from Indian Institute of Technology Delhi in 2017, under the supervision of Prof. S. Chandra Sekhara Rao. Her research work is primarily focused on designing parallel algorithms for large linear systems with special structures and properties. She has published several research papers in journals of international repute. Before joining JKLU, She worked as Assistant Professor at Punjab Engineering College (Deemed to be University), Chandigarh and NIT Delhi.
+
+--- Teaching Interests ---
+Numerical Methods and Computation
+Calculus
+Ordinary Differential Equations
+Matrix Computations
+
+--- Research Interests ---
+Numerical Analysis
+Parallel Computing
+
+--- Honors, Awards, and Affiliations ---
+Session Chair in the International Conference on “Integrated Approaches in Science and Technology for Sustainable Future” organized by J. C. Bose University of Science and Technology, YMCA, Faridabad in association with American Chemical Society from Feb 28 – Mar 1, 2022.
+Invited Talk on Regression Analysis in FDP on Data Science organized by AICTE, ATAL-PEC Chandigarh from Jun 07-11, 2021.
+Resource Person: A two day webinar on Parallel Computing for beginners at Chitkara University, Punjab from Apr 16-17, 2021.
+Qualified UGC-JRF (July 2010).
+Qualified GATE 2010 with AIR 135.
+
+--- Selected Publications ---
+Rabia Kamra and S. C. S. Rao (2021). A Stable Parallel Algorithm for Block Tridiagonal ToeplitzBlock-Toeplitz Linear Systems, Mathematics and Computers in Simulation (Elsevier), 190 (2021) 1415-1440. Impact Factor: 2.467. Available:
+https://doi.org/10.1016/j.matcom.2021.07.019
+S. C. S. Rao and Rabia Kamra (2021). A Computational Technique for Parallel Solution of Diagonally Dominant Banded Linear Systems, 2021 IEEE 28th International Conference on High Performance Computing, Data, and Analytics (HiPC), 2021, pp. 448-453, Available:
+https://doi.org/10.1109/HiPC53243.2021.00064
+S. C. S. Rao and Rabia Kamra (2018). A Hybrid Parallel Algorithm for Large Sparse Linear Systems, Numerical Linear Algebra with Applications (John Wiley), e2210. Impact Factor: 2.109. Available:
+https://doi.org/10.1002/nla.2210
+S. C. S. Rao and Rabia Kamra (2015). A Stable Parallel Algorithm for Diagonally Dominant Tridiagonal Linear Systems, In proc. 22nd International Conference on High Performance Computing (HiPC), IEEE Conference Publications (IEEE Xplore), (2015) 95-104. Available:
+https://doi.org/10.1109/HiPC.2015.31
+S. C. S. Rao, Sarita and Rabia Kamra (2014). Backward error analysis of Choleski Q.I.F. for the solution of symmetric positive definite linear systems, Applied Mathematics and Computation (Elsevier), 226 (2014) 398-405. Impact Factor: 4.091. Available:
+https://doi.org/10.1016/j.amc.2013.10.042
+

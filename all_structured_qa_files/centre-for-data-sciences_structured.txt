@@ -1,0 +1,7 @@
+
+    Q: What is the Centre for Data Sciences at JKLU?
+    A: The Centre for Data Sciences focuses on data-driven solutions, building enterprise data assets, and developing customised analytics solutions in areas like fraud analytics, business intelligence, machine learning, IoT streaming analysis, and more.
+
+    Q: What are some of the key competencies of the Centre for Data Sciences at JKLU?
+    A: The Centre works on big data technologies, predictive analytics, marketing analytics, sensor analytics, social network analytics, and churn analytics.
+    

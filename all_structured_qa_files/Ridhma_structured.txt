@@ -1,0 +1,7 @@
+
+    Q: Who is Dr Ridhma at JKLU?
+    A: Dr Ridhma is an Assistant Professor in the Department of Computer Science and Engineering at JKLU. She has submitted her PhD thesis at Punjab Engineering College, Chandigarh, and specializes in deep learning, machine learning, and computer vision.
+
+    Q: What are Dr Ridhma's research interests?
+    A: Her research interests include deep learning, machine learning, image processing, and computer vision.
+    

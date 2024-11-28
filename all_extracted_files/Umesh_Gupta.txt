@@ -1,0 +1,32 @@
+Faculty Name: Umesh Gupta
+
+--- Education ---
+PhD from University of Rajasthan, Jaipur.M.Phil. from University of Rajasthan, Jaipur.M.Sc. from University of Rajasthan, Jaipur.
+
+--- Experience ---
+Umesh Gupta is a Professor at the Institute of Engineering and Technology, JKLU. He has 21 years of teaching and research experience in Statistical Data Analysis and Optimisation Techniques. He has presented papers in several international conferences including World Congress on Engineering and Technology (CET 2012) in China.Umesh Gupta is a life member of various national and international academic bodies like Indian Science Congress, Indian Mathematical Society, Operational Research Society of India, and Rajasthan Academy of Physical Sciences. He is also the President of Soft Computing Research Society Jaipur, treasurer of ISTD, Jaipur & Vigyan Bharti Rajasthan and a senior member of IACSIT, Singapore. He was a visiting professor at St. Cloud State University, USA.He has developed a number of UG and PG courses including Computational Data Analysis under the mentorship of Prof. Siddhartan Govindasamy during his association with Olin College of Engineering, USA.He has written several textbooks on Engineering, Mathematics, and Research Methods in Management. He organised the 2nd International Conference on Soft Computing for Problem Solving (SocProS 2012) and “National Conference on Science and Engineering” at JK Lakshmipat University. He has organised training programmes supported by DST, SCRS and Michigan Technological University, USA besides a conference series on Sustainable Development Goals (SDGs) organised at the university. He is the President of the Institution’s Innovation Council of MHRD, Govt. of India at JKLU and also the core team member of Atal Incubation Centre at JKLU.
+
+--- Teaching Interests ---
+Optimisation Techniques
+Statistical Data Analysis
+Fluid Mechanics
+
+--- Research Interests ---
+A research project for the Working Group on Education, State Planning Board, Rajasthan.
+Research Tools in Pure and Applied Mathematical Science
+Computational Techniques and Tools for Research
+
+--- Honors, Awards, and Affiliations ---
+Co-author for the “Best Paper Award” for the paper titled, Water security in India: Linking role of institutions, human resources and policy for sustainability of operation and maintenance in the International Conference on Innovations in Technology and Management for Achieving Sustainable Developments Goals (ICSDG) organised by JK Lakshmipat University, Jaipur during February 1-3, 2019.
+Co-author for the “Best Paper Award” for paper entitled A Survey of User Perception Concerning e-waste Management in the 5th International Conference on Green, Growth, Globalisation and Governance: Challenges and Opportunities organised by JK Lakshmipat University at its campus during February 02-04, 2018.
+
+--- Selected Publications ---
+Advances in Intelligent Systems and Computing, Springer, 327, 367-375.Jadwal Pankaj Kumar, Jain Sonal, Gupta Umesh, and Khanna Prashant, Clustered Support Vector Machine for ATM Cash Repository Prediction. In the Progress in Advanced Computing and Intelligent Engineering, Advances in Intelligent Systems and Computing 2019, ed. B. Pati, C. Panigrahi, S. Misra, A. Pujari, S. Bakshi. (Singapore: Springer), 713.
+Khangarot, Harshita and Jain, Sonal and Gupta, Umesh (2019), Framework for Managing Collection of E-Waste in Household (October 3, 2019). Proceedings of International Conference on Advancements in Computing & Management (ICACM) 2019, SSRN.
+Gupta, Umesh, Jain, Sonal, Kumawat, Dharmendra and Sharma, Roopali, Clustering of Water Reservoirs based on Water Chemical Analysis, International Journal of Research in Advent Technology (IJRAT) 7, 6S (2019): 274-277.
+Dubey A.K., Gupta U., Jain S. (2020) Computational Measure of Cancer Using Data Mining and Optimization. In: Karrupusamy P., Chen J., Shi Y. (eds) Sustainable Communication Networks and Application. ICSCN 2019. Lecture Notes on Data Engineering and Communications Technologies, vol 39. Springer, Cham.
+Umesh Gupta, Sonal Jain and Mayank Bhatia (2018). Mean Reversion with Pair Trading in Indian Private Sector Banking Stocks. In: Satapathy S., Joshi A. (eds) Information and Communication Technology for Intelligent Systems (ICTIS 2017), Smart Innovation, Systems and Technologies, Springer, 1, 384 “ 389.
+Pankaj Kumar Jadwal, Sonal Jain, Umesh Gupta and Prashant Khanna (2018). K-Means Clustering with Neural Networks for ATM Cash Repository Prediction. In: Satapathy S., Joshi A. (eds) Information and Communication Technology for Intelligent Systems (ICTIS 2017), Smart Innovation, Systems and Technologies, Springer, 1, 588 “ 596.
+Sunil Pathak, Umesh Gupta and Sonal Jain (2017). Statistical Analysis of Project Assessment Pattern of Examiners. Research Outlook, 1(1), 11-14.
+Rohit, Harshita Gupta, Umesh Gupta and Sheetal Mundra (2016). International Tourism Elasticity and Indian Economy. International Bulletin of Mathematical Research, 4(2), 19-22, June 2017.
+

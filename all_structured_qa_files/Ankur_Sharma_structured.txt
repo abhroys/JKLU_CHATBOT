@@ -1,0 +1,7 @@
+
+    Q: Who is Ankur Sharma at JKLU?
+    A: Ankur Sharma is an Assistant Professor in the Department of Computer Science and Engineering at JKLU. He holds an MS in Computer Science from the University of North Carolina, Chapel Hill, and an MA in Statistics from Yale University. He has taught courses at Yale and UNC, and his areas of expertise include algorithms, machine learning, and theoretical computer science.
+
+    Q: What are Ankur Sharma's research interests?
+    A: His research interests include computer vision, Bayesian statistics, and theoretical foundations of computation.
+    

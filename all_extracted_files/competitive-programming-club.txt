@@ -1,0 +1,166 @@
+
+
+# Competitive Programming Club (CPP) #
+
+
+# About the club #
+
+The Code-Hub (Competitive Programming Club) at JKLU is a thriving community of passionate coding enthusiasts dedicated to nurturing innovation and providing the resources to excel in the world of competitive programming.
+
+
+# Our Mission #
+
+At the Competitive Programming Club, our primary goal is to elevate the coding skills of our members while providing invaluable hands-on experience in the exciting world of competitive programming. We strive to create a vibrant community of like-minded individuals who share a passion for problem-solving and algorithmic thinking.
+
+
+# What We Offer #
+
+– Student-Centric Approach
+
+At Code-Hub, students take the lead. Our faculty coordinators are always available to support and guide, but the heart of our club is driven by student creativity and determination.
+
+– Guidance and Resources
+
+We offer indispensable guidance, coding workshops, and tutorials. Our well-equipped workspaces and access to coding platforms ensure that the programming ideas of our members become reality.
+
+– Around the Year Activities
+
+Code-Hub hosts a variety of engaging activities throughout the year. These events bring together students from different universities to showcase their coding skills and explore the latest industry trends in competitive programming.
+
+– Beyond Coding
+
+Being a part of Code-Hub means more than just solving coding challenges. As a member, the students acquire problem-solving skills and strategies that not only enhance their performance in coding competitions but also contribute to their personal growth as a whole.
+
+
+# Leadership #
+
+Chair: Vaibhav Chauhan
+
+Co-Chair: Suryaansh Sharma
+
+
+# Committee #
+
+Nitin Kumar – Core Coordinator
+
+Ayush Anand – Core Coordinator
+
+Vibhor Saxena – Event Coordinator
+
+Vivek Pareek – Event Coordinator
+
+Mudit Mehta – Design Coordinator
+
+Paridhi Chourasia – Design Coordinator
+
+Diya Garg – Outreach Coordinator
+
+Shubham Jain – Outreach Coordinator
+
+Divansu Kachwa – Social Media Coordinator
+
+Nakul Ranka – Social Media Coordinator
+
+
+# Contact Us #
+
+For inquiries, suggestions, and collaboration opportunities, feel free to reach out to us:
+
+Code-Hub- cpclub@jklu.edu.in
+
+President-Vaibhav Chauhan vaibhavchauhan@jklu.edu.in
+
+Vice President-Suryaansh Sharma SURYAANSHSHARMA@jklu.edu.in
+
+
+# Student Coordinators #
+
+
+# Vision: #
+
+To develop a coding contest enthusiasm among the students through the Competitive Programming Club. It is all about learning & preparing for programming competitions, where problems, that test various concepts and logical skills, must be solved efficiently within a stipulated duration.
+
+
+# Mission: #
+- To enhance connectivity between college activities and students.
+- To build leadership quality among students.
+- To develop logical problem-solving skills among students.
+- To motivate students for teamwork.
+
+
+# Club Objectives: #
+
+To expose JKLU students to programming competitions and equip them with programming skills.
+
+
+# Faculty Coordinator: #
+
+Dr. Santosh Kumar Verma
+
+Assistant Professor
+
+Institute of Engineering and Technology
+
+santosh.verma@jklu.edu.in
+
+
+# Student Coordinator: #
+
+Post
+
+Name
+
+Email
+
+President
+
+Ayush Ranwa
+
+ayushranwa@jklu.edu.in
+
+Vice-President
+
+Divya Sharma
+
+divyasharma21@jklu.edu.in
+
+
+# Common Rules and regulations: #
+- All club members abide to attend all the club’s meetings.
+- Any member can propose a new activity or participate/host an existing activity.
+- The evaluation component in any activity, if present, must be free from any unfair means.
+- Member Registration is mandatory for each academic year.
+- The contest will be conducted over the Internet, even in on-campus mode.
+- Teams whose registration formalities are completed are only eligible to participate in any contest.
+- Duplicate Registrations are not allowed by either team or a single member in multiple teams.
+- Each participating team must submit solutions during the contest period.
+- Duplicate Submission and Code Sharing is strictly prohibited; any instance of it would lead to disqualification from the contest and chances to be barred from membership of the club.
+- Individuals/Teams may be awarded based on performance and sponsorships.
+- Onsite/Online Judges’ decision will be considered final for any event. No correspondence in this regard will be entertained.
+
+
+# Vaibhav Chauhan (Chair) #
+
+
+# Suryaansh Sharma (Co-Chair) #
+
+
+# Club Rules and Regulations #
+- The club members may suggest a new activity or take part in/host an existing activity.
+- All club members must agree to attend club meetings.
+- Evaluation must be conducted in an appropriate manner.
+- Even in on-campus mode, the contest will be done online.
+- Only the teams who meet the eligibility criteria will be registered and permitted to take part in any competition.
+- No team or individual participant in more than one team may register twice.
+- During the contest term, each participating team must submit solutions.
+- Sharing duplicate submissions and codes is prohibited, and any such incident will result in disqualification.
+
+Evaluation must be conducted in an appropriate manner.
+
+Even in on-campus mode, the contest will be done online.
+
+Only the teams who meet the eligibility criteria will be registered and permitted to take part in any competition.
+
+During the contest term, each participating team must submit solutions.
+
+Sharing duplicate submissions and codes is prohibited, and any such incident will result in disqualification.

@@ -1,0 +1,7 @@
+
+    Q: Who is Dr Rabia Kamra at JKLU?
+    A: Dr Rabia Kamra is an Assistant Professor in the Department of Science and Liberal Arts at JKLU. She holds a PhD from IIT Delhi, and her research focuses on numerical methods and parallel computing.
+
+    Q: What are Dr Rabia Kamra's research interests?
+    A: Her research interests include numerical analysis and parallel computing.
+    

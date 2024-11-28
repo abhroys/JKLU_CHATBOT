@@ -1,0 +1,7 @@
+
+    Q: What are some of the notable research publications from JKLU in 2021?
+    A: Notable publications include papers on topics such as vertical bearing behavior, ANFIS modeling for tensile strength, and data clustering and classification using TLBO and machine learning algorithms.
+
+    Q: What was a significant research focus in 2020 at JKLU?
+    A: Key research areas in 2020 included energy-efficient computing, photovoltaic systems, and waste management through biodiesel and composting techniques.
+    

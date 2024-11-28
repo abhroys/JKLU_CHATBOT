@@ -1,0 +1,13 @@
+
+    Q: What is the objective of the B.Tech in Computer Science and Artificial Intelligence at JKLU?
+    A: The program provides a strong foundation in AI and Machine Learning, along with computer science fundamentals, with exposure to cutting-edge AI technologies like NLP, Computer Vision, and Reinforcement Learning.
+
+    Q: What are the career prospects of the B.Tech in Computer Science and Artificial Intelligence?
+    A: Graduates are prepared for careers in applying AI to healthcare, analytics, fintech, transportation, and e-commerce.
+
+    Q: What is the curriculum for B.Tech in Computer Science and Artificial Intelligence?
+    A:
+    - Semester 1: Programming-I, Fundamentals of Electrical and Electronics, Applied Physics, Calculus, etc.
+    - Semester 2: Programming-II, Digital Circuits, Applied Physics, Linear Algebra, etc.
+    ...
+    

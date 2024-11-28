@@ -1,0 +1,32 @@
+Faculty Name: Kshitiz Verma
+
+--- Education ---
+PhD (Telematics Engineering) from the Universidad Carlos III de Madrid, Spain.M.Tech. (Telematics Engineering) from the Universidad Carlos III de Madrid, Spain.B.Tech. (CSE) from IIT, Kanpur, IndiaBachelor of Law (LL.B.) from Rajasthan University, Jaipur, India.
+
+--- Experience ---
+Dr. Kshitiz Verma is an Associate Professor in the Department of Computer Science and Engineering at JK Lakshmipat University. He holds a PhD in Telematics Engineering from the Universidad Carlos III de Madrid, Spain. He obtained his B.Tech. in Computer Science and Engineering from IIT, Kanpur and a Bachelor of Law (LL.B.) from Rajasthan University, Jaipur.His research interest lies in the application of Computer Science, Deep Learning, and Law to improve access to justice in India. He is, currently a SERB-TARE fellow and holds a research grant as well.
+
+--- Teaching Interests ---
+Machine learning, Deep learning
+Applications of Computer Science to law
+
+--- Research Interests ---
+Machine learning, Deep learning
+Applications of Computer Science to law
+
+--- Honors, Awards, and Affiliations ---
+SERB-TARE fellowship
+IEEE-NCA 2012, Best Paper Award
+
+--- Selected Publications ---
+“Analysing HC-NJDG Data to Understand the Pendency in High Courts in India” Kshitiz Verma. Accepted for presentation at Law Via the Internet Conference 2018, Florence, Italy. Available at https://osf.io/preprints/lawarxiv/xryj7
+“e-Courts Project: A Giant Leap by Indian Judiciary”, Kshitiz Verma. In Journal on Open Access to Law (JOAL) (Vol. 6, No.1-2018). Published by Cornell University (Invited Paper).
+“An Introduction to a Mammoth Sized Problem in Indian Judiciary”, Kshitiz Poster accepted at JURIX 2017.
+“Modernisation of Indian Judiciary with a Goal to Reduce Backlog of Court Cases”, Kshitiz Verma. Law Via the Internet Conference 2017.
+“Energy Efficient File Distribution Problem and its Applications”, Kshitiz Verma, Alberto Garcı́a-Martı́nez, Samar Agnihotri. IEEE NCA 2016.
+“SLEEPWELL: Energy Efficient Network Design for the Developing World Using Green Switches”, K. Verma, S. Zaks, A. Garcı́a-Martı́nez. IEEE AINA 2016.
+“Energy Optimal Collaborative File Distribution in Wired Networks”, K. Verma, 21.Ruzzo F. Anta, R. Cuevas, A. Azcorra, S. Zaks, A. Garcı́a-Martı́nez. In Peer to Peer Networking and Applications.
+“Greening the Internet: Energy-Optimal File Distribution”, K. Verma, G. Rizzo, F. Anta, R. Cuevas, A. Azcorra. IEEE NCA 2012. (Best Paper Award)
+“Towards a Collision-Free WLAN: Dynamic Parameter Adjustment in CSMA/E2CA” -J. Barcelo, B. Bellalta, C. Cano, A. Sfairopoulou, M. Oliver, K. Verma. Eurasip Journal on Wireless Communications and Networking, Special issue: “Multiple Access Communications in Future-Generation Wireless Networks” May 2011.
+Tech. Report, “Towards finding a polynomial time algorithm for Graph Isomorphism Problem.” K. Verma. Dept. of CSE, IIT Kanpur. Supervisor: Prof. Manindra Agrawal.
+

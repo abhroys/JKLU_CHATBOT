@@ -1,0 +1,7 @@
+
+    Q: Who is Dr Richa Sharma at JKLU?
+    A: Dr Richa Sharma is an Associate Professor of Mathematics at the Institute of Engineering & Technology, JKLU. She specializes in queueing theory, probability theory, and stochastic modeling.
+
+    Q: What are Dr Richa Sharma's research interests?
+    A: Her research interests include queueing theory, reliability theory, stochastic models, and probability theory.
+    

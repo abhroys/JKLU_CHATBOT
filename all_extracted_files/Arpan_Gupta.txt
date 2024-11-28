@@ -1,0 +1,27 @@
+Faculty Name: Arpan Gupta
+
+--- Education ---
+PhD (CSE) from LNMIIT, Jaipur.M.Tech. (CSE) from LNMIIT, Jaipur.B.Tech. (IT) from SRMCEM, Lucknow (affiliated to UPTU).
+
+--- Experience ---
+Dr. Arpan Gupta is Assistant Professor in the Department of Computer Science at the Institute of Engineering and Technology, JKLU. He completed his B.Tech. in Information Technology from SRMCEM, Lucknow followed by M.Tech. In CSE from LNMIIT, Jaipur.He obtained his PhD in Computer Science and Engineering from LNMIIT, Jaipur. Prior to joining JKLU, he also worked as a Senior Data Scientist at Algo8 AI Pvt. Ltd. His research interest lies in Computer Vision and Deep Learning, especially in activity understanding in sports videos.
+
+--- Teaching Interests ---
+Computer Programming
+Data Structures and Algorithms
+Computer Vision
+
+--- Research Interests ---
+Video Activity Recognition
+Deep Neural Networks
+Computer Vision
+
+--- Honors, Awards, and Affiliations ---
+GATE qualified. Rank 2526 in the year 2014.
+Team secured 2nd place at the Xerox Research Mortality Prediction Challenge, 2015 conducted at Hackerrank. Internship of 15 days at Xerox Research Centre India and participation in the second round of the challenge.
+Represented UP State in National Junior Chess Championship, 2004 at Chennai and National Sub-Junior Chess Championship, 2005 at Kozhikode.
+Won numerous awards at the inter-school, inter-collegiate, district and state chess championships, and participated in national level chess tournaments.
+
+--- Selected Publications ---
+Arpan Gupta and Sakthi Balan Muthiah. “Learning Cricket Strokes from Spatial and Motion Visual Word Sequences”, Multimedia Tools and Applications, 2022. ISSN 1573-7721, https://doi.org/10.1007/s11042-022-13307-y
+

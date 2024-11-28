@@ -1,0 +1,7 @@
+
+    Q: What is the Applied Robotics Club (ARC) at JKLU?
+    A: The Applied Robotics Club is a student-led community at JKLU dedicated to exploring robotics and automation. It provides hands-on experience in robotics through workshops, competitions, and access to equipment for developing innovative machines.
+
+    Q: What activities does the Applied Robotics Club offer?
+    A: ARC hosts workshops, hands-on projects, robotics competitions, and collaborative events to enhance technical skills and leadership in robotics.
+    

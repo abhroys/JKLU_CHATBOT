@@ -1,0 +1,37 @@
+Faculty Name: Taruna Sunil
+
+--- Education ---
+PhD ( Computer Science) from Banasthali University.Masters (Statistics) from Rajasthan University.
+
+--- Experience ---
+Taruna Sunil is a Professor in the Department of Computer Science and Engineering of Institute of Engineering and Technology (IET) at JK Lakshmipat University. She comes with a vast experience of 23 years in teaching, research, and administration. She has more than 50 publications to her credit with research papers presented at national and international conferences, many of which are published in Springer, Scopus Indexed Journals. Eight students are currently registered under her for PhD and amongst them, four students have already been awarded their PhD degree. She is also credited with one patent publication.
+
+--- Teaching Interests ---
+Computer Network
+Machine Learning and Data Mining
+Wireless Sensor Network
+Network Security
+Information Retrieval
+
+--- Research Interests ---
+Computer Networks
+Machine Learning and Data Mining
+Cloud Computing
+
+--- Honors, Awards, and Affiliations ---
+American Association for Science and Technology( AASCIT) Communications Journal,
+International Journal on Adhoc Networking System (IJANS),
+International Journal of Advanced Smart Sensor Network Systems (IJASSN),
+International Journal of Mobile Network Communications and Telematics (IJMNCT),
+International Journal of Database Management Systems (IJDBMS),
+International Journal of Data Mining and Knowledge Management Process (IJDKP),
+Advances in Vision Computing-An International Journal, International Journal of Computational Science and Information Technology (IJCSITY),
+International Journal on Computational Science and Applications (IJCSA).
+She is also a programme committee member of various IEEE and other International and national conferences.
+Best Faculty Award in Ci Stems Software Ltd. for the year 1997.
+
+--- Selected Publications ---
+Pahwa, Bhumika, S. Taruna, and Neeti Kasliwal. “A Novel Approach for Aspect Level Sentiment Analysis.” 2018 International Conference on Computing, Power and Communication Technologies (GUCON), publication in IEEE 2019. (Scopus Indexed) and (Web of Science Indexed)
+Seera, N. K., & Taruna, S. (2018). Leveraging Map Reduce with Column-Oriented Stores: Study of Solutions and Benefits. In Big Data Analytics (pp. 39-46). Springer, Singapore. (Scopus Indexed)
+Pandey, M., & Taruna, S. (2018). An Ensemble-Based Decision Support System for the Students’ Academic Performance Prediction. In ICT Based Innovations (pp. 163-169). Springer, Singapore. (Scopus Indexed)
+

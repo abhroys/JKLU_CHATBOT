@@ -1,0 +1,7 @@
+
+    Q: Who is Dr Deepika Prakash at JKLU?
+    A: Dr Deepika Prakash is an Associate Professor in the Department of Computer Science at JKLU. She holds a PhD in data warehouse requirements engineering from Delhi Technological University.
+
+    Q: What are Dr Deepika Prakash's research interests?
+    A: Her research interests include data engineering in data lakes, IoT system design, and big data engineering.
+    

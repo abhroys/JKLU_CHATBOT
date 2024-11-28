@@ -1,0 +1,13 @@
+
+    Q: What is the objective of the B.Tech in Computer and Communication Engineering at JKLU?
+    A: The program provides a strong foundation in Computer Science and Communication Technology, focusing on emerging areas like IoT, 5G, and VLSI, with hands-on learning through Practice School.
+
+    Q: What are the career prospects of the B.Tech in Computer and Communication Engineering?
+    A: Graduates can pursue careers in communication system design, maintenance, security, and performance monitoring.
+
+    Q: What is the curriculum for B.Tech in Computer and Communication Engineering?
+    A:
+    - Semester 1: Programming-I, Fundamentals of Electrical and Electronics, Applied Physics, Calculus, etc.
+    - Semester 2: Programming-II, Digital Circuits, Applied Physics, Linear Algebra, etc.
+    ...
+    

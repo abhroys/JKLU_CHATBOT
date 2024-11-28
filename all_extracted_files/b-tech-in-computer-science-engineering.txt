@@ -1,0 +1,107 @@
+Objective
+This program aims to provide a strong foundation in Mathematics, Problem solving and Critical thinking, and Programming in addition to the courses on Design and Management while laying adequate emphasis on the core subjects of Computer Science and Engineering. Macro credit courses on emerging technologies are offered to equip the students with the skills and knowledge need to stay at the forefront of their fields. A mandatory two months Practice School-1 at the end of the second year and six months Practice School-2 in the final year allows them to get practical knowledge and valuable insight into the world of Computer Science and Engineering. Well-equipped labs and research facilities along with an excellent faculty provide the necessary pathways to aid the process of learning.
+
+Career Prospects
+Designed to create innovators of tomorrow, this programme prepares the students to take on challenging careers in the fields of technology research, software design and development, system and network architecture, system integration and many more.
+
+Curriculum
+Semester 1
+Programming -I
+Fundamentals of Electrical and Electronics
+Applied Physics/Environment Studies
+Calculus
+Design-1
+Fundamentals of Communication
+Semester 2
+Programming -II
+Digital Circuit and Systems
+Applied Physics/Environment Studies
+Linear Algebra and Differential Equations
+Design-2
+Critical Thinking and Storytelling
+Semester 3
+Data Structures & Algorithms
+Computer Architecture & Organization
+Database Systems
+Probability and Statistics
+Mangement-1
+Perspectives on Contemporary Issues
+Semester 4
+Design and Analysis of Algorithms
+Machine Learning
+Operating System
+Optimization for Computer Science
+Management -II
+Communication and Identity
+Summer Break
+
+Practice School -1
+Semester 5
+Discrete Mathematics
+Computer Network
+DE-I
+DE-II
+OE-I/SEE1(2)+SEE2(2)
+Understanding and Managing Conflict
+Semester 6
+Theory of Computation
+Minor Project
+DE -III
+DE -IV
+OE -II/SEE3(2)+SEE4(2)
+Critical Thinking for Decisions at Workplace
+Semester 7
+Project
+DE-V
+OE-III
+OE -IV
+Semester 8
+Practice School – II /Entrepreneurial Project/Research Project/Semester at a partner University
+Specializations
+Specializations allow students to acquire advanced skills and knowledge in a specific area of their main program. The curriculum for the first two years remains the same for all students, providing a solid foundation in core engineering principles.
+
+In their third year, students can choose to specialize in one of the following areas, requiring the completion of at least three courses within the specialization:
+Data Science
+Foundations of Data Science
+Natural Language Processing
+Business Analytics
+Data Visualisation
+
+Cloud Computing
+Parallel and distributed computing
+Cloud computing architecture
+Cloud Services and technologies
+Fog and edge networks
+
+Big Data Analytics
+Big data storage and architecture
+Multi-dimensional and advanced databases
+Mining massive data-sets
+Social network analysis and business analytics
+
+Cyber Security
+Introduction to information security
+Fundamentals of cyber security
+Secure Analytics and Coding
+Cyber Forensics
+
+VLSI
+CMOS VLSI
+VLSI Physical Design
+VLSI testing and verification
+IC Fabrication Technology/ Real time operating systems
+
+
+Minors (Interdisciplinary)
+For students interested in expanding their horizons beyond their primary field of engineering, minors offer a valuable opportunity. Minors complement the main degree and can enhance employability, facilitate interdisciplinary learning, or serve as a stepping stone to further education.
+
+ 
+
+The minors currently offered at the institute include:
+
+Design
+Banking in Fintech
+Entrepreneurship
+Robotics
+Mathematics
+Successfully completed specializations and minors are prominently noted on the students’ degree certificates alongside their main field of study. This recognition highlights their additional qualifications and can significantly enhance their profiles for potential employers or academic opportunities.

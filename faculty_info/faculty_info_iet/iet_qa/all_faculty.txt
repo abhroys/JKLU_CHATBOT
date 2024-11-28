@@ -1,0 +1,286 @@
+Mechanical Engineering - Dr. Rajlakshmi Nayak
+
+Q: Who is Dr. Rajlakshmi Nayak at JKLU?
+A: Dr. Rajlakshmi Nayak is an Associate Professor in the Department of Mechanical Engineering at JKLU. She holds a PhD from IIT Chennai and specializes in microfluidics and heat transfer.
+
+Q: What are Dr. Rajlakshmi Nayak's teaching interests?
+A: Fluid Mechanics, Thermodynamics, Heat Transfer, Computational Fluid Dynamics, Calculus, and Applied Mechanics.
+
+Q: What are Dr. Rajlakshmi Nayak's research interests?
+A: Microfluidics, Heat Transfer, and Renewable Energy.
+
+Electrical Engineering - Dr. Devika Kataria
+
+Q: Who is Dr. Devika Kataria at JKLU?
+A: Dr. Devika Kataria is a Professor in the Department of Electrical Engineering at JKLU. She holds a PhD from IIT Kanpur and has over a decade of experience in both industry and academia.
+
+Q: What are Dr. Devika Kataria's teaching interests?
+A: Digital System Design, Analog Electronics, Real-Time Operating Systems, Internet of Things, and Computer Vision.
+
+Q: What are Dr. Devika Kataria's research interests?
+A: Flexible Electronics and the Internet of Things.
+
+Computer Science Engineering - Dr. Ridhma
+
+Q: Who is Dr. Ridhma at JKLU?
+A: Dr. Ridhma is an Assistant Professor in the Department of Computer Science and Engineering at JKLU. She holds a PhD from Punjab Engineering College, Chandigarh.
+
+Q: What are Dr. Ridhma's teaching interests?
+A: Machine Learning and Operating Systems.
+
+Q: What are Dr. Ridhma's research interests?
+A: Deep Learning, Machine Learning, Image Processing, and Computer Vision.
+
+Mathematics - Dr. Jaya Gupta
+
+Q: Who is Dr. Jaya Gupta at JKLU?
+A: Dr. Jaya Gupta is an Associate Professor in the Department of Mathematics at JKLU. She holds a PhD from the University of Rajasthan and specializes in Special Functions and Fractional Calculus.
+
+Q: What are Dr. Jaya Gupta's teaching interests?
+A: Statistical Distribution Theory, Fractional Calculus, Special Functions, and Integral Transforms.
+
+Q: What are Dr. Jaya Gupta's research interests?
+A: Integral Transforms, Statistical Distribution Theory, and Fractional Calculus.
+
+Mathematics - Dr. Richa Sharma
+
+Q: Who is Dr. Richa Sharma at JKLU?
+A: Dr. Richa Sharma is an Associate Professor in the Department of Mathematics at JKLU. She holds a PhD from Dr. Ambedkar University, Agra, and specializes in Queueing Theory and Stochastic Models.
+
+Q: What are Dr. Richa Sharma's teaching interests?
+A: Operations Research, Computational Data Analytics, Statistics, Reliability Theory, Stochastic Models, and Probability Theory.
+
+Q: What are Dr. Richa Sharma's research interests?
+A: Queueing Theory, Reliability Theory, Stochastic Models, and Probability Theory.
+
+Computer Science - Dr. Ajai Jain
+
+Q: Who is Dr. Ajai Jain at JKLU?
+A: Dr. Ajai Jain is Professor Emeritus in the Department of Computer Science at JKLU. He holds a PhD from McGill University, Montreal, and has over 35 years of teaching experience.
+
+Q: What are Dr. Ajai Jain's teaching interests?
+A: VLSI Testing, Parallel Processor Design for NLP Applications, and Combinational Circuit Testing.
+
+Q: What are Dr. Ajai Jain's research interests?
+A: Machine Translation, NLP Processor Design, and Testability of Combinational Circuits.
+
+Computer Science - Devendra Bhavsar
+
+Q: Who is Devendra Bhavsar at JKLU?
+A: Devendra Bhavsar is an Assistant Professor in the Department of Computer Science at JKLU. He holds an M.Tech from IIT Bombay and is currently pursuing a PhD in Big Data Analytics.
+
+Q: What are Devendra Bhavsar's teaching interests?
+A: Data Structures and Algorithms, Computer Networks, Cyber Security, Advanced Algorithms, Network Security, and Object-Oriented Programming.
+
+Q: What are Devendra Bhavsar's research interests?
+A: Wireless Sensor Networks and Edge Computing.
+
+Computer Science - Dr. Deepika Prakash
+
+Q: Who is Dr. Deepika Prakash at JKLU?
+A: Dr. Deepika Prakash is an Associate Professor in the Department of Computer Science at JKLU. She holds a PhD in Data Warehouse Requirements Engineering from Delhi Technological University.
+
+Q: What are Dr. Deepika Prakash's teaching interests?
+A: Big Data Engineering, Data Lakes, NoSQL Databases, and Relational Databases.
+
+Q: What are Dr. Deepika Prakash's research interests?
+A: Data Engineering in Data Lakes and IoT System Design.
+
+R&D - Prof. Jyoti Prakash Cr Naidu
+
+Q: Who is Prof. Jyoti Prakash Cr Naidu at JKLU?
+A: Prof. Jyoti Prakash Naidu is the Dean (R&D) at JKLU. He has over three decades of experience in industrial R&D and academia, and specializes in Design Theory and Methodology.
+
+Q: What are Prof. Jyoti Prakash Naidu's teaching interests?
+A: Design for Patentability, Design for Sustainability, Design for Automation, Robotics, and Applications of Management in Rural Areas.
+
+Q: What are Prof. Jyoti Prakash Naidu's research interests?
+A: Design Theory for Intelligent Systems, Design for Patentability, and Sustainability in Medical Devices and Robotics.
+
+Electronics Engineering - Dr. Gaurav Mani Khanal
+
+Q: Who is Dr. Gaurav Mani Khanal at JKLU?
+A: Dr. Gaurav Mani Khanal is an Assistant Professor in the Department of Electronics Engineering at JKLU. He holds a PhD from the University of Tor Vergata, Rome, Italy, specializing in Memristor-based Systems.
+
+Q: What are Dr. Gaurav Mani Khanal's teaching interests?
+A: CMOS VLSI Design, Digital System Design, Nanoelectronics Devices, and Low-Power Electronics System Design.
+
+Q: What are Dr. Gaurav Mani Khanal's research interests?
+A: Brain-Inspired Electronics System Design, Neuromorphic Engineering, and Flexible Electronics Devices.
+
+Computer Science - Amit Kumar Sinhal
+
+Q: Who is Amit Kumar Sinhal at JKLU?
+A: Amit Kumar Sinhal is a Professor of Computer Science and Engineering at JKLU with over two decades of experience in research, teaching, and the IT industry. He holds a PhD from Rajeev Gandhi Technical University and has extensive experience in AI, ML, and Software Engineering.
+
+Q: What are Amit Kumar Sinhal's teaching interests?
+A: AI and Machine Learning, Soft Computing, Software Engineering, and Data Mining.
+
+Q: What are Amit Kumar Sinhal's research interests?
+A: Software Engineering, Soft Computing, AI, Machine Learning, and Natural Language Processing.
+
+Computer Science - Ankur Sharma
+
+Q: Who is Ankur Sharma at JKLU?
+A: Ankur Sharma is an Assistant Professor in the Department of Computer Science and Engineering at JKLU. He holds an MS in Computer Science from UNC Chapel Hill and an MA in Statistics from Yale University, and has taught multiple courses at both institutions.
+
+Q: What are Ankur Sharma's teaching interests?
+A: Algorithms, Theoretical Computer Science, Machine Learning, Discrete Mathematics, Probability, and Statistics.
+
+Q: What are Ankur Sharma's research interests?
+A: Computer Vision, Image Processing, Bayesian Statistics, and Theoretical Foundations of Computation.
+
+Electrical and Electronics Engineering - Divanshu Jain
+
+Q: Who is Divanshu Jain at JKLU?
+A: Divanshu Jain is an Assistant Professor in the Department of Electrical and Electronics Engineering at JKLU. He holds a Master's degree in Communication Engineering from BITS Pilani, and his research focuses on IoT, Signal Processing, and Antenna Design.
+
+Q: What are Divanshu Jain's teaching interests?
+A: Wireless Communication, Antenna Design, and IoT.
+
+Q: What are Divanshu Jain's research interests?
+A: IoT, Signal Processing, and Antenna Design.
+
+Mechanical Engineering - Dr. Mahesh Kumar Yadav
+
+Q: Who is Dr. Mahesh Kumar Yadav at JKLU?
+A: Dr. Mahesh Kumar Yadav is an Assistant Professor in the Department of Mechanical Engineering at JKLU. He holds a PhD from IIT Kanpur and specializes in hydrogen management, nuclear reactor containment cooling, and renewable energy systems.
+
+Q: What are Dr. Mahesh Kumar Yadav's teaching interests?
+A: Thermodynamics, Fluid Mechanics, Heat Transfer, and Energy Systems.
+
+Q: What are Dr. Mahesh Kumar Yadav's research interests?
+A: Hydrogen Management, Phase-Change Thermo-Fluidic Systems, and Renewable Energy Systems.
+
+Mathematics - Manushi Gupta
+
+Q: Who is Dr. Manushi Gupta at JKLU?
+A: Dr. Manushi Gupta is an Assistant Professor in the Department of Science and Liberal Arts at JKLU. She holds a PhD from IIT (BHU) and specializes in mathematical modeling on thermoelastic problems.
+
+Q: What are Dr. Manushi Gupta's teaching interests?
+A: Mathematics, Statistical Computing, and Univariate Calculus.
+
+Q: What are Dr. Manushi Gupta's research interests?
+A: Mathematical Modeling on Non-Conventional Thermoelastic Problems.
+
+Electrical Engineering - Dr. Hanuman Prasad Agrawal
+
+Q: Who is Dr. Hanuman Prasad Agrawal at JKLU?
+A: Dr. Hanuman Prasad Agrawal is an Associate Professor in the Department of Electrical Engineering at JKLU. He holds a PhD from Jagannath University, Jaipur, and has over 20 years of experience in teaching and administration.
+
+Q: What are Dr. Hanuman Prasad Agrawal's teaching interests?
+A: Industrial Drive and E-Vehicles, Power Systems, and Automation Engineering.
+
+Q: What are Dr. Hanuman Prasad Agrawal's research interests?
+A: Power System Stability, Power Quality, and Electric Vehicle Technology.
+
+Computer Science - Arpan Gupta
+
+Q: Who is Dr. Arpan Gupta at JKLU?
+A: Dr. Arpan Gupta is an Assistant Professor in the Department of Computer Science at JKLU. He holds a PhD from LNMIIT, Jaipur, and his research focuses on Computer Vision and Deep Learning.
+
+Q: What are Dr. Arpan Gupta's teaching interests?
+A: Computer Programming, Data Structures, Algorithms, and Computer Vision.
+
+Q: What are Dr. Arpan Gupta's research interests?
+A: Video Activity Recognition, Deep Neural Networks, and Computer Vision.
+
+Civil Engineering - Kedar Sharma
+
+Q: Who is Dr. Kedar Sharma at JKLU?
+A: Dr. Kedar Sharma is an Associate Professor in the Department of Civil Engineering at JKLU. He holds a PhD from IIT Kanpur and specializes in water resources management and fluvial hydraulics.
+
+Q: What are Dr. Kedar Sharma's teaching interests?
+A: Engineering Hydrology, Water Resources Management, and Construction Project Management.
+
+Q: What are Dr. Kedar Sharma's research interests?
+A: Water Resources Management, River Engineering, and Fluvial Hydraulics.
+
+Chemistry - Mohd Shahnawaz Khan
+
+Q: Who is Dr. Mohd Shahnawaz Khan at JKLU?
+A: Dr. Mohd Shahnawaz Khan is an Associate Professor in the Department of Chemistry at JKLU. He holds a PhD in Synthetic Organic and Medicinal Chemistry and has over 15 years of teaching experience.
+
+Q: What are Dr. Mohd Shahnawaz Khan's teaching interests?
+A: Organic Synthesis, Medicinal Chemistry, Green Chemistry, and Bioactive Heterocyclic Compounds.
+
+Q: What are Dr. Mohd Shahnawaz Khan's research interests?
+A: Waste-to-Energy Solutions and Biodiesel Production.
+
+Computer Science - Dr. Renu Jain
+
+Q: Who is Dr. Renu Jain at JKLU?
+A: Dr. Renu Jain is the Dean and Officiating Director at JKLU's Institute of Engineering and Technology. She holds a PhD in Computer Science from BITS Pilani and has over 31 years of teaching, research, and administrative experience.
+
+Q: What are Dr. Renu Jain's teaching interests?
+A: Computer-Based Information Systems and Software Technology.
+
+Q: What are Dr. Renu Jain's research interests?
+A: Computer-Based Information Systems, Software Technology, and Technology Integration in Education.
+
+Computer Science - Dr. Pranab Roy
+
+Q: Who is Dr. Pranab Roy at JKLU?
+A: Dr. Pranab Roy is an Associate Professor in the Department of Computer Science and Engineering at JKLU. He holds a PhD in Information Technology from IIEST Shibpur, and has more than 19 years of professional experience in organizations like the Shipping Corporation of India and ESSAR shipping Ltd.
+
+Q: What are Dr. Pranab Roy's teaching interests?
+A: Digital System Design, Electronics, and Communication Engineering.
+
+Q: What are Dr. Pranab Roy's research interests?
+A: Design Automation for Digital Microfluidic Biochips, Droplet Routing, Wire Planning, and Detection Mechanism.
+
+Mathematics - Dr. Rabia Kamra
+
+Q: Who is Dr. Rabia Kamra at JKLU?
+A: Dr. Rabia Kamra is an Assistant Professor in the Department of Science and Liberal Arts at JKLU. She holds a PhD from IIT Delhi and specializes in designing parallel algorithms for large linear systems.
+
+Q: What are Dr. Rabia Kamra's teaching interests?
+A: Numerical Methods, Calculus, Ordinary Differential Equations, and Matrix Computations.
+
+Q: What are Dr. Rabia Kamra's research interests?
+A: Numerical Analysis and Parallel Computing.
+
+Electronics Engineering - Dr. Surbhi Chhabra
+
+Q: Who is Dr. Surbhi Chhabra at JKLU?
+A: Dr. Surbhi Chhabra is an Assistant Professor of Electronics and Communication Engineering at JKLU. She holds a PhD in Hardware Security from The LNM Institute of Information Technology, Jaipur.
+
+Q: What are Dr. Surbhi Chhabra's teaching interests?
+A: Programming, Digital Circuits, Computer Organisation, Digital System Design using FPGAs, and Hardware Security.
+
+Q: What are Dr. Surbhi Chhabra's research interests?
+A: Hardware Security and Digital System Design using FPGAs.
+
+Computer Science - Kshitiz Verma
+
+Q: Who is Kshitiz Verma at JKLU?
+A: Kshitiz Verma is an Associate Professor in the Department of Computer Science and Engineering at JKLU. He holds a PhD in Telematics Engineering from the Universidad Carlos III de Madrid, Spain, and specializes in the application of Deep Learning and Computer Science to law.
+
+Q: What are Kshitiz Verma's teaching interests?
+A: Machine Learning, Deep Learning, and Applications of Computer Science to Law.
+
+Q: What are Kshitiz Verma's research interests?
+A: Machine Learning, Deep Learning, and Applications of Computer Science to Law.
+
+Computer Science - Taruna Sunil
+
+Q: Who is Taruna Sunil at JKLU?
+A: Taruna Sunil is a Professor in the Department of Computer Science and Engineering at JKLU. She has over 23 years of experience in teaching, research, and administration and has published more than 50 research papers.
+
+Q: What are Taruna Sunil's teaching interests?
+A: Computer Networks, Machine Learning, Wireless Sensor Networks, Network Security, and Information Retrieval.
+
+Q: What are Taruna Sunil's research interests?
+A: Computer Networks, Machine Learning, Data Mining, and Cloud Computing.
+
+Mathematics - Umesh Gupta
+
+Q: Who is Umesh Gupta at JKLU?
+A: Umesh Gupta is a Professor at the Institute of Engineering and Technology, JKLU. He has 21 years of experience in teaching and research in the areas of Statistical Data Analysis and Optimisation Techniques.
+
+Q: What are Umesh Gupta's teaching interests?
+A: Optimisation Techniques, Statistical Data Analysis, and Fluid Mechanics.
+
+Q: What are Umesh Gupta's research interests?
+A: Research Tools in Pure and Applied Mathematical Science, Computational Techniques, and Tools for Research.
+

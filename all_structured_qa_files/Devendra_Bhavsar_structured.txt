@@ -1,0 +1,7 @@
+
+    Q: Who is Devendra Bhavsar at JKLU?
+    A: Devendra Bhavsar is an Assistant Professor in the Department of Computer Science Engineering at JKLU. He holds an M.Tech from IIT Bombay and is currently pursuing his PhD in big data analytics.
+
+    Q: What are Devendra Bhavsar's research interests?
+    A: His research interests include wireless sensor networks, algorithms, and edge computing.
+    

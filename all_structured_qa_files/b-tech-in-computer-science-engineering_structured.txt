@@ -1,0 +1,13 @@
+
+    Q: What is the objective of the B.Tech in Computer Science Engineering at JKLU?
+    A: The program provides a strong foundation in mathematics, problem-solving, and programming, with a focus on emerging technologies, along with hands-on experience through Practice School.
+
+    Q: What are the career prospects of the B.Tech in Computer Science Engineering?
+    A: Graduates can pursue careers in technology research, software design and development, system and network architecture, and system integration.
+
+    Q: What is the curriculum for B.Tech in Computer Science Engineering?
+    A:
+    - Semester 1: Programming-I, Fundamentals of Electrical and Electronics, Applied Physics, Calculus, etc.
+    - Semester 2: Programming-II, Digital Circuits, Applied Physics, Linear Algebra, etc.
+    ...
+    

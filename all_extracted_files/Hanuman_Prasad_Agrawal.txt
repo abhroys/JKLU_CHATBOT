@@ -1,0 +1,30 @@
+Faculty Name: Hanuman Prasad Agrawal
+
+--- Education ---
+PhD from Jagannath University, Jaipur.M.Tech. from Malviya National Institute of Technology (MNIT), Jaipur.B.E. from Government Engineering College, Kota.
+
+--- Experience ---
+Dr. Hanuman Prasad Agrawal is Associate Professor, Department of Electrical Engineering at JK Lakshmipat University. He completed his PhD from Jagannath University, Jaipur and M.Tech. from Malaviya National Institute of Technology (MNIT), Jaipur. He holds more than 20 years of teaching and administrative experience in several engineering institutes including Sobhasaria Engineering College, Sikar and Shekhawati Engineering College, Dundlod where he held the position of the Head of Department, Controller of Examinations, Coordinator of M.Tech. Programme and Vice Principal. He has guided thirteen M.Tech. students for their thesis besides designing and conducting numerous faculty development programs, workshops, and seminars.Dr. Agrawal is a highly motivated member of JKLU faculty, seeking constant improvement in teaching and research methodology.
+
+--- Teaching Interests ---
+Industrial Drive and E-Vehicles
+Power System
+Fundamental of Automation Engineering
+
+--- Research Interests ---
+Power System Stability
+Power Quality
+Integration of Distributed Energy Resources
+Electric Vehicle Technology
+
+--- Honors, Awards, and Affiliations ---
+Best faculty in education by ITSR Foundation, Jaipur on November 25, 2017. Excellence in Academics by ITSR Foundation, Jaipur on March 31, 2019.
+
+--- Selected Publications ---
+HO Bansal, T Sen and HP Agrawal, “ Modelling and Simulation of Hydropower Plant using PSO Tuned Controller ” International Journal of Power and Energy Systems, acta Press, Volume 36,2016. (Scopus)
+R Kumar, HO Bansal and HP Agrawal , “Development of fuzzy logic controller for photovoltaic integrated shunt active power filter”, Journal of Intelligent &amp; Fuzzy Systems, Volume 36, pp. 6231-6243, 2019. (SCI)
+R Kumar, HP Agrawal , A Shah and HO Bansal , “Maximum power point tracking in wind energy conversion system using radial basis function based neural network control strategy”, Sustainable Energy Technologies and Assessments (Elsevier), Volume 36, pp. 1-10, 2019. (SCI)
+Hanuman Prasad Agrawal and Hari Om Bansal, &quot;FACT Controllers and their Optimal Location: An Extensive Review&quot;, Recent Advances in Electrical &amp; Electronic Engineering, August 24, 2020. doi:10.2174/2352096513999200714102628 (Scopus)
+HP Agrawal, HO Bansal, R Kumar and YS Shishodia, “HIL Investigations on Intelligently Tuned PV Integrated DSTATCOM to Enhance Power Quality”, Arabian Journal for Science and Engineering, September 2021. https://doi.org/10.1007/s13369-021-06104-6 . (SCI)
+HP Agrawal, HO Bansal, R Kumar and YS Shishodia, Design and realtime validation of PI and Fuzzy Logic tuned photovoltaic integrated DSTATCOM to improve power, Environmental Science and Pollution Research. July 2022. https://doi.org/10.1007/s11356-022-21910-7 . (SCI)
+

@@ -1,0 +1,7 @@
+
+    Q: Who is Dr Ajai Jain at JKLU?
+    A: Dr Ajai Jain is a Professor Emeritus at the Institute of Engineering and Technology, JKLU. He has over 35 years of teaching experience at institutions like IIT Delhi and BITS Pilani, and his research focuses on VLSI testing and machine translation systems.
+
+    Q: What are Dr Ajai Jain's research interests?
+    A: His research includes the development of a web-based translation system (AnglaHindi) and VLSI testing for combinational circuits.
+    

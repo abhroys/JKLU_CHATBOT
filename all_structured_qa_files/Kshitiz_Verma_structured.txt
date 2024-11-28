@@ -1,0 +1,7 @@
+
+    Q: Who is Kshitiz Verma at JKLU?
+    A: Dr Kshitiz Verma is an Associate Professor in the Department of Computer Science and Engineering at JKLU. He holds a PhD from Universidad Carlos III de Madrid and a B.Tech from IIT Kanpur.
+
+    Q: What are Kshitiz Verma's research interests?
+    A: His research interests include machine learning, deep learning, and applications of computer science to law.
+    

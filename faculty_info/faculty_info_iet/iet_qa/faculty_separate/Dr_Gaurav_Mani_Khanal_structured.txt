@@ -1,0 +1,7 @@
+
+    Q: Who is Dr Gaurav Mani Khanal at JKLU?
+    A: Dr Gaurav Mani Khanal is an Assistant Professor in the Department of Electronics Engineering at JKLU. He holds a PhD from the University of Rome Tor Vergata, Italy, and has expertise in nanoelectronics devices and circuits, including the design of memristor-based systems.
+
+    Q: What are Dr Gaurav Mani Khanal's research interests?
+    A: His research interests include brain-inspired electronics system design, neuromorphic engineering, and flexible electronics devices.
+    

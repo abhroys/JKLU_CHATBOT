@@ -1,0 +1,6 @@
+JKLU Centres
+Centre for Data Sciences
+
+The Centre for Data Sciences echos JKLU’s focus on emerging areas that are now impacting businesses and work across sectors. The Centre has competencies in data cataloging which include building enterprise data assets, data enrichment, and collaboration through capability-building for a data-driven culture and disseminating powerful analytical tools to build customised solutions.
+
+The Centre works to develop analytics solutions and data science approaches in areas of fraud analytics, sensor analytics, business intelligence, resource optimisation, investment modelling, marketing analytics, big data technologies, predictive analytics, machine learning, recommendation systems, churn analytics, sentiment analysis, data visualisation, IoT streaming analysis, and social network analytics.

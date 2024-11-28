@@ -1,0 +1,106 @@
+Faculty Name: Dr Ajai Jain
+
+--- Education ---
+PhD from McGill University, Montreal, Canada.M.Tech. from IIT Delhi.B.E. from University of Roorkee (now IIT Roorkee).B.Sc. from Kanpur University.
+
+--- Experience ---
+Prof. Ajai Jain is Professor Emeritus at the Institute of Engineering and Technology, JKLU. He has more than 35 years of teaching experience at IIT Delhi (Lecturer, 1981-86), BITS Pilani (Assistant Professor, 1991-92) and IIT Kanpur (Assistant Professor, Associate Professor and Professor, 1992-2020). He also holds 30 years of post-PhD research experience supervising many B.Tech./ M.Tech./ PhD Students.Prof. Jain has been associated with numerous activities related to Continuing Education. He coordinated summer schools for students and faculty members from Engineering colleges during the summer of 1999 and 2000, training approximately 300 and 700 participants respectively. He was instrumental in organising continuing education activities in the Department of Computer Science and Engineering, IIT Delhi during early 80s where he conducted short term courses on VLSI Testing. He is credited with conducting several training programmes for IBM-ACE and Cadence. VLSI testing for the teachers from engineering colleges in October 2001 under MIT VLSI manpower project were also conducted by him.During his vast academic experience, Prof. Jain has held the position of Group Leader (HoD) at BITS Pilani. He was also a Member of The Board of Governors, IIT Kanpur. He held the positions of Chairman of Senate Undergraduate Committee, Chairman of Senate Postgraduate Committee, Chairman of Rules Committee and Senate Parliamentarian at IIT Kanpur. He has chaired sessions in national and International conferences, symposiums and workshops. He served on the selection committees of IITs, NITs, UPSC and other government organisations. He was also the Chairman of RDC and Member of Board for Curriculum Development of various universities and Engineering colleges.
+
+--- Teaching Interests ---
+Developed web-based translation system AnglaHindi for English to Hindi translation.
+Transferred technology for machine-translation to more than ten institutes/ organisations with Prof. RMK Sinha.
+Software developed for testing combinational circuits, measuring the testability of the circuits and enhancing the testability.
+Designed Parallel Processor for NLP Applications.
+
+--- Research Interests ---
+Developed web-based translation system AnglaHindi for English to Hindi translation.
+Transferred technology for machine-translation to more than ten institutes/ organisations with Prof. RMK Sinha.
+Software developed for testing combinational circuits, measuring the testability of the circuits and enhancing the testability.
+Designed Parallel Processor for NLP Applications.
+
+--- Honors, Awards, and Affiliations ---
+University Gold Medals for Mathematics during his B.Sc. and B.E.
+President, IEEE, Uttar Pradesh Section for two years.
+Successfully completed over 10 sponsored projects with total grant over INR 3 crore.
+
+--- Selected Publications ---
+A Fault-tolerant Array Processor Designed for Testability and Self-Reconfiguration”, A.Jain, B.Mandava,J.Rajski, N.C.Rumin,
+IEEE Journal of Solid State Circuits
+, May 1991, pp778-788.
+“Emerging Trends in Machine Translation between English and Indian Languages”, R.Jain, R.M.K.Sinha, A.Jain,
+Journal of Computer Science and Informatics
+, March 1997, pp 19-25.
+“Automatic Test Pattern Generation for Sequential Circuits Using Genetic Algorithms”, V.Rajesh, Ajai Jain,
+VLSI DESIGN’98, 11th International Conference on VLSI Design
+, Chennai, January 4-7, 1998, pp 270-273.
+“Testability Preserving and Enhancing Transformations for Robust Delay Fault Testability”, Amey Karkare, Manoj Singla, Ajai Jain,
+VLSI DESIGN’98, 11th International Conference on VLSI Design
+, Chennai, January 4-7, 1998, pp 370-373.
+“Application of Genetic Algorithm to Automatic Test Pattern Generation”, Ajai Jain, Salil Prabhakar,
+5th International Conference on Advanced Computing
+, Chennai, December 15-17, 1997, pp 295-301.
+“Modular Fault-Tolerant Hypercube”, Ajai Jain, Ajit Bannerjee,
+5th International Conference on Advanced Computing,
+Chennai, December 15-17, 1997, pp 475-482.
+“Test-Generation for Sequential Circuits using Bus-Fault Model”, D.R.Chakrabarty, A.Jain,
+VLSI’96, International Conf. of VLSI Design
+, Bangalore, Jan. 3-6, 1996 pp174-177.
+“Design of a Parallel Processor for NLP Applications”, P.Sukumar, A.Jain,
+International conference on Information, Systems Analysis Synthesis,Orlando, U.S.A.
+, July 22-26, 1996.
+“Machine Translation using Examples for Similar and Dissimilar Languages”, R.Jain,R.M.K.Sinha, A.Jain,
+International conference on Information, Systems Analysis Synthesis
+,Orlando, U.S.A., July 22-26, 1996.
+“Relevance and strategies of MT in Global Environment and Integrated Approach to MT in Indian context”, R.M.K.Sinha, A.Jain,
+Conference of Society of Machine Aided Translation, SMATAC’96
+, New Delhi.
+“Some Experiences on Anglabharti an Anubharti Projects”, Renu Jain, R.M.K.Sinha, A.Jain, R.P.Shukla, U.Tewari,
+Conference of Society of Machine Aided Translation, SMATAC’96
+, New Delhi.
+“On Multilingual Dictionary Design – English to Indian Languages”, R.M.K.Sinha, A.Jain,
+Conference of Society of Machine Aided Translation, SMATAC’96
+, New Delhi.
+“A Pattern-Directed Hybrid Approach to Machine Translation Through Examples”, R.Jain, R.M.K.Sinha, A.Jain,
+SNLP’95 : 2nd Symp. on Natural Lang. Processing
+, Bangkok, Thailand, August 2-4, 1995, pp 324-335.
+“HFSM : A Finite State Machine for Analyzing Hindi Sentences”, R.Jain, R.M.K.Sinha, A.Jain, R.Srivastava,
+SNLP’95 : 2nd Symp. on Natural Lang. Processing
+, Bangkok, Thailand, August 2-4, 1995, pp 317-322.
+“Role of Examples in Translation”, R.Jain, R.M.K.Sinha, A.Jain,
+’95 IEEE Conf. on Systems, Man and Cybernetics
+, Vancouver, Canada, Oct 22-25, 1995, pp 1615-1620.
+“ANGLABHARTI: A Multilingual Machine Aided Translation Project on Translation from English to Indian Languages”, R.M.K.Sinha, K.Sivaraman, A.Agrawal, R.Jain, R.Srivastava, A.Jain,
+’95 IEEE Conf. on Systems, Man and Cybernetics
+, Vancouver, Canada, Oct 22-25, 1995, pp 1609-1614.
+“An Improved Hierarchical Test Generation Technique for Combinational Circuits with Repetitive Sub-circuits”, D.R. Chakrabarty, A. Jain,
+4th Asian Test Conference (ATS’95)
+, Bangalore, Nov. 23-24, 1995, pp 237-244.
+“On the Monotonicity of Yield of Fault- Tolerant Reconfigurable Multi-pipeline Structures”, A.Jain,
+2nd Australasian Conf. on Parallel and Real Time Systems
+, Sept. 28-29, 1995, Fremantle, Western Australia, pp 296-303.
+“Analyzing Logical Properties of Reconfigurable Processor Arrays”, A.Jain,
+First Conference on Fault Tolerant Computing
+, Madras, Dec. 20-22, 1995, pp 180-189.
+“Fault Diagnosis and Tolerance in Repetitive Circuits”‘ D.R.Chakrabarty, A.Jain,
+First Conference on Fault Tolerant Computing
+, Madras, Dec. 20-22, 1995, pp 107-113.
+“An Efficient Algorithm for Fault-tolerance Through Reconfiguration in VLSI Arrays”, Ajai Jain, Praerit Garg,
+Proceedings of Seminar on Electronic Systems and Applications
+, Roorkee, March 30-31, 1994, pp 261-269.
+“Design of High-Speed Fault-Tolerant Arithmetic Unit for VLSI Implementation”, Ajai Jain, Ravi Pinnamaneni,
+Proceedings of Seminar on Integrated Electronics
+, Roorkee, March 20-21, 1993, pp- 61-70.
+“Probabilistic analysis of yield and area utilization of reconfigurable rectangular Processor Arrays”, A.Jain,J.Rajski,
+International Workshop on Defect and Fault Tolerance in VLSI Systems,
+, Springfield, Massachuttes, U.S.A., Oct 1988.
+“A Processing Element for a Reconfigurable Massively Parallel Processor”, H.Cox, A.Jain,et al.,
+Canadian Conference on VLSI (CCVLSI),
+, Oct. 1987, pp-241-246.
+Ajai Jain and Janusz Rajski, ‘Probabilistic Analysis of Yield and Area Utilization of Reconfigurable Rectangular Processor Arrays’, Chapter in the book ‘Defect and Fault Tolerance in VLSI Systems’, edited by I.Koren, Published by Plenum Publishers, New York.
+Architecture of English To Sanskrit Machine Translation Science and Information Conference (SAI), 2015,IEEE, Page Number 616-624, IEEE Technically Co-Sponsored SAI Intelligent Systems Conference 2015, held in November 10 &11, 2015 at London, UK.
+EtranS-English to Sanskrit Machine Translation Page number 11-15 International Journal of Computer Application, Issue Number 12,2012 Published by Foundation of Computer Science, New York, USA
+EtranS- A Complete Framework for English To Sanskrit Machine Translation Page number 52-59 IJACSA Special Issue on Selected Papers from International Conference & Workshop On Emerging Trends In Technology 2012
+EtranS-English to Sanskrit Machine Translation Page number 11-15 ICWET 2012,ACM Digital Library, 2012,
+Selected as Best Paper
+English to Sanskrit Machine Translation Page number 345-349 ICWET 2011, Bombay ACM Digital Digital Library, 2011
+

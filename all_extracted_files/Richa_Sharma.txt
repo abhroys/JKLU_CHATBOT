@@ -1,0 +1,322 @@
+Faculty Name: Richa Sharma
+
+--- Education ---
+PhD (Queueing Theory) from Dr. R. Ambedkar University, Agra.M.Sc. (Mathematics) from Dr. R. Ambedkar University, Agra.B.Sc (Physics, Chemistry, Maths).
+
+--- Experience ---
+Dr. Richa Sharma is Associate Professor of Mathematics at the Institute of Engineering & Technology, JKLU. She holds a Masters degree and PhD  in Mathematics from Dr. B. R. Ambedkar University, Agra. She has more than nine years of research and teaching experience.She has been appointed as reviewer for a number of international journals of repute. Her research area includes queueing theory, probability theory, reliability theory, stochastic modelling and optimisation. She has more than forty-six research papers published in refereed international/ national journals. She has also participated and presented her research papers in numerous conferences, workshops, and training programs. Her research work was presented in various international conferences held at Politecnico di Milano, Italy; Zhejiang Sci-Tech University, Hangzhou, China; Hong Kong; and Kathmandu, Nepal.
+
+--- Teaching Interests ---
+Operations Research
+Computational Data Analytics
+Statistics, Reliability theory
+Stochastic models
+Probability theory
+
+--- Research Interests ---
+Queueing theory
+Reliability theory
+Stochastic models
+Probability theory
+
+--- Honors, Awards, and Affiliations ---
+“
+Best Researcher Award
+”, in online award ceremony “Institute of Technical and Scientific Research”, at Jaipur during September 13, 2020.
+“
+Bharat Excellence Award
+”, in a seminar on “Global Brotherhood & Peace”, at Delhi during February 24, 2019.
+“
+Leading Educationist of India Award
+” by “Friendship Forum” at Delhi during February 24, 2019.
+“
+Best Paper
+” in the “
+International Conference on Innovations in Technology and Management for Achieving Sustainable Developments Goals
+”at JK Lakshmipat University, Jaipur during February 1-3, 2019.
+“
+Excellent Service Award
+” by Lion Club Jaipur Capital held at Jaipur during September 10, 2017.
+“
+Young Faculty in Science
+” in
+“
+Contemporary Academy Meet CAM-2017” held at Chennai during July 8, 2017.
+“
+Certificate of Merit
+” in international conference on “2015 IAENG International Conference on Operations Research” held at Hong Kong during March 18-20, 2015.
+“
+Best Paper Presentation”
+award in annual conference of
+“Vijnana Parishad of India”
+and
+“The Global Society of Mathematical & Applied Sciences”
+held at Meerut during March 24-26, 2011.
+Been appointed as
+Editorial Board Member
+in SCIREA Journal of Mathematics, April 2019.
+Selected as the TPC Member- 2019 ‘
+4th International Conference on System Reliability and Safety
+(ICSRS 2019)’, held during November 20-22, 2019 at NH Roma Villa Carpegna in Rome, Italy.
+
+--- Selected Publications ---
+Dubey, AK, Sinhal, AK
+and R. Sharma (2022),
+“
+An Improved Auto Categorical PSO with ML for Heart Disease Prediction
+”,
+Engineering Technology & Applied Science Research,
+12, No. 3, pp. 8567–8573.
+(ESCI)
+Dubey AK, Choudhary K,
+and Sharma, R.
+(2021). “
+Predicting Heart Disease Based on Influential Features with Machine Learning
+,”
+Intelligent Automation & Soft Computing
+, Vol. 30, No. 3, pp. 929-43, DOI:10.32604/iasc.2021.018382.
+(SCIE)
+Sharma, D., Kumar, G.
+and Sharma, R.
+(2021). “
+Analysis of Heterogeneous Data Storage and Access Control Management for Cloud Computing under M/M/c Queueing Model,”,
+Published in
+International Journal of Cloud Applications and Computing,
+11, No. 3, pp. 58-71.
+(Scopus)
+Malik, G., Upadhyaya, S.
+and Sharma, R.
+(2021). “
+Cost inspection of a Geo/G/1 retrial model using particle swarm optimization and Genetic algorithm,”,
+Published in
+Ain Shams Engineering Journal,
+12, No. 2, pp. 2241-2254 DOI: doi.org/10.1016/j.asej.2020.11.012.
+(SCIE & Scopus)
+Malik, G., Upadhyaya, S.
+and Sharma, R.
+(2021). “
+Particle Swarm Optimization and Maximum Entropy Results for MX/G/1 Retrial G-Queue with Delayed Repair”,
+Published in
+International Journal of Mathematical, Engineering and Management Sciences,
+6, No 2, pp. 541-563, DOI:  10. 33889/IJMEMS.2021.6.2.033 (Available online:).
+(Scopus & ESCI)
+Sharma, R. and
+Kumar, G. (2019). “
+Availability Modelling of Cluster-Based System with Software Aging and Optional Rejuvenation Policy”,
+Published in
+Cybernetics and Information Technologies,
+19, No 4, pp. 90-100, DOI: 10.2478/cait-2019-0038 (Available online: 4 Dec 2019).
+(Scopus& ESCI)
+Rohit and
+Sharma, R. (2019).
+“
+Analysis of Signals in Communication System under Buffer Handover Scheme: A Queuing Approach”,
+Published in
+International Journal of Computer Science Engineering,
+08, No 4, pp. 129-136, ISSN : 2319-7323.
+Jain, M.,
+Sharma, R.
+and Meena, R.
+(2019).
+”
+Performance Modeling of Fault Tolerant Machining System with Working Vacation and Working Breakdown
+“, Published in
+Arabian Journal for Science and Engineering,
+44, No 3, pp. 2825-2836, https://doi.org/10.1007/s13369-018-3591-6 (Available online: 19 Oct 2018).
+(SCI & Scopus)
+Jain, M., Agarwal, S. and
+Sharma, R. (2019).
+“
+Optional k-phase Vacation for M
+X/
+G/1 Queue with Bulk Arrival and State Dependent Rates”,
+Published in
+International Journal of Engineering Applied Sciences and Technology,
+3, No 10, pp. 32-43 (Available online: Feb 2019).
+Sharma, R.
+(2018).
+“A Systematic Analysis for Various Threshold Policies in Queuing Systems
+“, Published in
+Journal of Mathematical and Theoretical Physics
+, 1, No. 5, pp. 210‒213, DOI: 10.15406/oajmtp.2018.01.00036 (Available online: Oct 2018).
+Sharma R.
+and Kumar G.
+(2017).
+“
+Availability improvement for the successive K-out-of-N machining system using standby with multiple working vacations
+”,
+Published in
+International Journal of Reliability and Safety,
+11, No. 3/4, pp. 256-267, 2017, DOI :
+10.1504/IJISE.2015.069918
+(Available online: 31 Jan 2018).
+(Scopus)
+Sharma, R.
+(2016
+).
+“Vacation Queue with Server Breakdown for M
+X
+/H
+K
+/1 Queue under N-Policy
+“, Published in
+International Journal of Computer & Information Science,
+17, no. 1, pp. 33-41.
+Sharma, R. (2015).
+“
+Markovian Queue with Service Interruption under N-policy
+“
+,
+Published in
+International Journal of Researches in Biosciences, Agriculture and Technology,
+2, no. 7 pp. 139-141
+.
+Jain, M.,
+Sharma, R.
+and Sharma, G. C.
+(2015).
+“
+Maximum Entropy Analysis of Bulk Arrival Retrial Queue with Second Optional Service and Bernoulli Vacation
+“, Published in
+International Journal of Industrial and Systems Engineering,
+20, no. 3 pp. 369-396 (Available online: 16 Jun 2015).
+(Scopus)
+Abstract published in Souvenir of
+“Recent Development in Application Mathematics and Information Technology”
+held at Guna during Dec. 4-6, 2009, pp. 18
+.
+Sharma, R
+., Kaushik, M.
+and
+Kumar, G.
+(2015).
+“Reliability analysis of an embedded system with multiple vacations and standby”,
+Published in
+International Journal of Reliability and Applications,
+16, No. 1, pp. 35-53, 2015.
+Kaushik M., Kumar G., Preeti,
+Sharma R.
+(2015)
+“
+Availability Analysis for Embedded System with N-version Programming using Fuzzy Approach
+”, Published in
+International Journal of Software Engineering, Technology and Applications
+. Vol.1, No.1, pp 90-101,
+DOI
+: 1504/IJSETA.2015.067533 (Available online: 16 Feb 2015).
+(UGC Journal)
+Sharma, R. (2014).  “Mathematical Analysis of Queue with Phase Service: An Overview Approach”, Published in Advances in Operations Research, vol. 2014, pp. 1-19,
+http://dx.doi.org/10.1155/2014/240926
+. (Scopus)
+Sharma R.,
+Kumar G. (2014) “
+Unreliable Server M/M/1 Queue with Priority Queueing System”,
+Published in International Journal of Engineering and Technical Research ISSN: 2321-0869, Special Issue, pp 368-371.
+Phatak S. and
+Sharma R. (2014)
+, “
+A Comparative Analysis of Various Project Networking Techniques: A Review”,
+Published in International Journal of Engineering Research and Technology, vol. 3, no. 7, pp. 203-209.
+Jain, M.,
+Sharma, R.
+and Sharma, G. C.
+(2013). “
+Multiple vacation policy for M
+X
+/H
+k
+/1 queue with un-reliable server”
+,
+Published in Journal of Industrial Engineering International, Vol. 9, No. 36, pp. 1-11, DOI: 10.1186/2251-712X-9-36.
+(Scopus).
+Jain, M., Sharma, G. C. and
+Sharma, R. (2013). “Unreliable Server M/G/1 Queue with Multi-optional Services and Multi-optional Vacations”
+,
+Published in International Journal of Mathematics in Operational Research, Vol. 5, No. 2, pp. 145-169,
+https://doi.org/10.1504/IJMOR.2013.052458
+, (Available online: March 2013).
+(Scopus)
+Abstract published in Souvenir of International Conference on “
+Practice and Research in Management
+” held at Agra during Feb. 18-20, 2011, pp. 79.
+Jain, M., Sharma, G. C. and
+Sharma, R. (2012). “Optimal Control of (N,F) Policy for Unreliable Server Queue with Multi Optional Phase Repair and Start up”
+,
+Published in International Journal of Mathematics in Operational Research, Vol. 4, No. 2, pp. 152-174, DOI:
+1504/IJMOR.2012.046375
+(Available online: April 2012).
+(Scopus)
+Jain, M., Sharma, G. C. and
+Sharma, R. (2012). “Maximum Entropy Approach for Discrete Time Unreliable Server Geo
+X
+/Geo/1 Queue with Working Vacation”
+,
+Published in International Journal of Mathematics in Operational Research, Vol. 4, No. 1, pp. 56-77,
+https://doi.org/10.1504/IJMOR.2012.044473
+(Available online: Jan 2012).
+(Scopus)
+Jain, M., Sharma, G. C. and
+Sharma, R. (2012). “A Batch Arrival Retrial Queueing System with Essential and Optional Services with Server Breakdown and Bernoulli Vacation”
+,
+Published in
+International Journal of Internet and Enterprise Management
+, 8, No. 1, pp. 16-45
+.
+Abstract published in Souvenir of Annual Conference on “
+Vijnana Parishad of India”
+and
+“The Global Society of Mathematical & Allied Sciences
+” held at Meerut during Mar. 24-26, 2011, pp. 63.
+Jain, M., Sharma, G. C. and
+Sharma, R. (2012). “
+Unreliable M
+X
+/(G
+1
+,G
+2
+)/1 Retrial Queue with Bernoulli Feedback under Modified Vacation Policy
+”
+,
+Published in International Journal of Information and Management Sciences, Vol. 23 , pp.157-175.
+(Scopus)
+Jain, M., Sharma, G. C. and
+Sharma, R. (2012). “Maximum Entropy Approach for Un-reliable Server Vacation Queueing model with Optional Bulk Service”
+,
+Published in
+Journal of King Abdul Aziz University
+(JKAU), 23, No. 2, pp. 90-113, DOI: 10.4197.
+Abstract published in Souvenir of 12
+th
+International Conference on
+“
+Focal Theme Emerging Interfaces of Physical Sciences
+”
+held at Jaipur during Dec. 22-24, 2010, pp. 44.
+Jain, M., Sharma, G. C. and
+Sharma, R. (2011). “Working Vacation Queue with Service Interruption and Multi-optional Repair”
+,
+Published in
+International Journal of Information and Management Sciences
+,
+22, pp. 157-175
+.
+(Scopus)
+Abstract published in Souvenir of National Conference on
+“Recent Developments in Science & Technology”
+held at Aligarh during Feb. 15-16, 2009, pp. 20.
+Sharma, R. (2010). “Threshold N-Policy for M
+X
+/H
+2
+/1 Queueing System with Un-reliable Server and Vacations”
+,
+Published in Journal of
+International Academy of Physical Sciences
+, 14, No. 1, pp. 41-51.
+Abstract published in Souvenir of 11
+th
+International Conference on
+“Convergence in Science and Technology”
+held at Allahabad during Feb. 20-22, 2009, pp. 3.
+

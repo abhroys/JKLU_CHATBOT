@@ -1,0 +1,31 @@
+Faculty Name: Rajlakshmi Nayak
+
+--- Education ---
+PhD from Indian Institute of Technology, ChennaiM.Tech. from NIT, Rourkela.
+
+--- Experience ---
+Dr. Rajlakshmi Nayak is Associate Professor in the Department of Mechanical Engineering at JKLU since March 2018. She is a visiting scholar of MNIT Jaipur with a SERB Grant under TARE fellowship and a research grant of ₹ 5 lakhs per annum.Currently, she is associated with research projects on Energy Conservation, Computational Fluid Dynamics and Microfluidics. At JKLU, she is involved in developing a number of courses like Calculus and Applied Mechanics, Design and Prototyping and Computational Engineering Analysis disciplines that are based on  Project based learning.She obtained her Doctorate from Indian Institute of Technology, Chennai, where she worked with multiphase flow characteristics in microchannel T-junction after completing her M.Tech. from NIT, Rourkela, where she worked on enhancing the insulating property of composite materials. She has one sponsored research grant and twenty publications that include 7 national/ international journals and 13 conferences.
+
+--- Teaching Interests ---
+Fluid Mechanics
+Thermodynamics
+Heat transfer
+Computational Fluid Dynamics
+Calculus and Applied Mechanics
+
+--- Research Interests ---
+Microfluidics
+Heat Transfer
+Renewable Energy
+
+--- Honors, Awards, and Affiliations ---
+SERB Grant under TARE fellowship, Optimization of airlift pump, Research fellowship of Rs. 60,000/- per year. Research grant of Rs. 5 lakhs per annum, December 2020-December 2023.
+
+--- Selected Publications ---
+Shailendra Kasera, Rajlakshmi Nayak and Shishir Chandra Bhaduri, Performance Analysis of Solar Milk Refrigerator using Energy Efficient R290, Case Studies in Thermal Engineering, Volume 24, (2021) 100855.
+Shailendra Kasera, Rajlakshmi Nayak and Shishir Chandra Bhaduri, Performance Analysis of Solar Operated Milk Refrigerator Using R290, Accepted in International Journal of Innovative Technology and Exploring Engineering (IJITEE), ISSN 2278-3075.
+Rajlakshmi Nayak, Oswald J Lobo, Dhiman Chatterjee and Sarit K. Das,
+Effect of geometry on slug length for two phase flow in microchannel
+, Chemical Engineering and Processing: Process Intensification, 130, (2018): 76-87.
+Umesh Madanan Rajlakshmi Nayak, Dhiman Chatterjee and Sarit K. Das, Experimental investigation on two-phase flow Maldistribution in parallel minichannels with U-type configuration, The Canadian Journal of Chemical Engineering, 96, 8 (2018): 1820-1828.
+

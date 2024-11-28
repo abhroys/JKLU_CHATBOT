@@ -1,0 +1,28 @@
+Faculty Name: Devika Kataria
+
+--- Education ---
+PhD, Indian Institute of Technology, Kanpur, 2016M.Tech., Maulana Azad National Institute of Technology, 2006B.Tech., Maulana Azad Regional Engineering college, 1991
+
+--- Experience ---
+Devika Kataria is Professor at the Institute of Engineering and Technology, JKLU. Her area of specialisation includes Electrical and Electronic Engineering.  She has more than a decade of  industrial, teaching, and administrative experience in various institutions. At JKLU, she teaches Digital System Design, Analog Electronics, Real Time Operating Systems, Internet of Things, and Computer Vision for both graduation and post-graduation programmes.Devika attended Olin Summer Collaboratory for designing Student-Centred Learning Experiences. She was instrumental in designing a number of Project Based Learning courses like Fundamentals of Automation Engineering.Presently, she is pursuing a research project in Flexible Sensors (under seed funding from Chancellor’s funds) at JK Lakshmipat University. She has conducted several workshops on Internet of Things in collaboration with Texas Instruments and has established TI Innovation Laboratory at JKLU. She has received a Letter of appreciation from Texas Instruments and AICTE for fostering the ecosystem and bridging gaps between the government, academia, and the industry.
+
+--- Teaching Interests ---
+Digital System Design
+Analog Electronics
+Real Time Operating Systems
+Internet of Things
+Computer Vision
+
+--- Research Interests ---
+Flexible Electronics
+Internet of Things
+
+--- Honors, Awards, and Affiliations ---
+Merit in National Scholarship Scheme, Higher Education Department, M.P. Board,1986
+Recognition from Academic Senate IITK for tutorship of Electronics Sciences, 2012-13
+Professional Development at Summer Institute 2018 at Olin College Collaboratory.
+Session Chair, The First Year, Frontiers In Education 2020, Uppsala, Sweden
+
+--- Selected Publications ---
+D. Kataria, J.P. Naidu, Rohit G., V. Sundar. Smart Monitoring of Belt Tension and Slip, US Patent# US 11,235,934 dated 1 Feb. 2022
+

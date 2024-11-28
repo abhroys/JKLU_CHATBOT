@@ -1,0 +1,61 @@
+Faculty Name: Dr Mahesh Kumar Yadav
+
+--- Education ---
+PhD (Mechanical Engineering) from Indian Institute of Technology, Kanpur (2019).M.Tech.(Mechanical Engineering) from Indian Institute of Technology, Guwahati (2010).B.E. (Mechanical Engineering with Hons.) from Government Engineering College, Bikaner, Rajasthan (2008).
+
+--- Experience ---
+Dr. Mahesh Kumar Yadav is Assistant Professor in the Department of Mechanical Engineering at the Institute of Engineering and Technology, JKLU. He obtained his PhD from the Indian Institute of Technology Kanpur in 2019 under the supervision of Prof. Sameer Khandekar. He worked on understanding the long-term passive nuclear reactor containment cooling of Indian PHWR during his doctoral programme, an experiment- extensive work funded through two sponsored projects from Bhabha Atomic Research Centre (BARC) Mumbai, India.Dr. Yadav has more than 25 high-quality publications in international journals, national/ international conferences, and book chapters. He also serves as a reviewer in several international journals. He is a member of the prestigious American Society of Mechanical Engineers (ASME), life member of the Indian Society for Heat and Mass Transfer (ISHMT), and The Institution of Engineers (India). His research interests include hydrogen management and mitigation, nuclear reactor containment cooling, phase-change thermo-fluidic systems, and inverse heat transfer measurements. Prior to joining the JKLU, he worked as Assistant Professor at Punjab Engineering College (Deemed to be University), Chandigarh, and Delhi Technological University (formerly Delhi College of Engineering) Delhi.
+
+--- Teaching Interests ---
+Thermodynamics
+Applied Thermodynamics
+Fluid Mechanics
+Heat Transfer
+Experimental Methods for Engineers
+Engineering Drawing with CAD Software
+Phase-Change Heat Transfer
+Energy Systems
+
+--- Research Interests ---
+Hydrogen Management and Mitigation
+Nuclear Reactor Containment Cooling
+Phase-Change Thermo-Fluidic Systems
+Inverse Heat Transfer Measurements
+Renewable Energy Systems
+
+--- Honors, Awards, and Affiliations ---
+Outstanding Reviewer Award by the international journal ‘Measurement Science and Technology’, the world’s first scientific instrumentation and measurement journal,2020.
+Institute of Physics (IOP) Trusted Reviewer Award, 2020.
+Student Best Poster Award to a paper jointly by American Society of Mechanical Engineers (ASME), Japan Society of Mechanical Engineers (JSME), and Chinese Nuclear Society (CNS) at the 27 th International Conference on Nuclear Engineering (ICONE-27), Ibaraki, Japan, 2019.
+Invited talk on ‘Film condensation of steam-hydrogen-air mixtures on nuclear reactor containments under severe accident scenario’ at Indo-French Workshop on Phase- Change Thermal Systems, Khajuraho (MP), India, November 29 – December 01, 2016.
+Qualified GATE (Mechanical Engineering) 2007, 2008.
+
+--- Selected Publications ---
+Punetha M., Yadav M.K., Jain S., Khandekar S., Sharma P.K., Thermal-hydraulic test facility for nuclear reactor containment: Engineering design methodology and benchmarking, Progress in Nuclear Energy, Vol. 138, pp. 103837, 2021. IF: 2.461, DOI:
+https://doi.org/10.1016/j.pnucene.2021.103837
+. SCIE. Q1
+Yadav M.K., Yadav V., Time limit for using the semi-infinite heat transfer solutions: A novel approach, IOP SciNotes, Vol. 1, pp. 024402, 2020. DOI:
+https://doi.org/ 10.1088/2633-1357/abaf67
+.
+Yadav M.K., Punetha M., Bhanawat A., Khandekar S., Sharma P.K., Steam condensation heat transfer during initial blow-down period of a severe nuclear accident, ASME Journal of Nuclear Engineering and Radiation Science, Paper No: NERS-19-1164, pp. 041108-1-9, 2020. IF: 0.5, DOI:
+https://doi.org/10.1115/1.4046910
+, ESCI. Q3
+Bhanawat A., Yadav M.K., Punetha M., Khandekar S., Sharma P.K., Effect of surface inclination on filmwise condensation heat transfer during flow of steam-air mixtures, ASME Journal of Thermal Science and Engineering Application, Paper No: TSEA-19- 1551, pp. 041028-1-13, 2020. IF: 1.879, DOI:
+https://doi.org/10.1115/1.4046867
+, SCIE. Q2
+Punetha M., Yadav M.K., Khandekar S., Sharma P. K., Ganju S., Intrinsic transport and combustion issues of steam-air-hydrogen mixtures in nuclear containments, International Journal of Hydrogen Energy, Vol. 45, pp. 3340-3371, 2020. IF: 7.139, DOI:
+https://doi.org/10.1016/j.ijhydene.2019.11.179
+, SCIE. Q1
+Yadav M.K., Singh S.K., Parwez A., Khandekar S., Inverse models for transient wall heat flux estimation based on single and multi-point temperature measurements, International Journal of Thermal Sciences, Vol. 124, pp. 307-317, 2018. IF: 4.779, DOI:
+http://dx.doi.org/10.1016/j.ijthermalsci.2017.10.027
+, SCIE. Q1
+Singh S.K., Yadav M.K., Sonawane R., Khandekar S., Muralidhar K., Estimation of time-dependent wall heat flux from single thermocouple data, International Journal of Thermal Sciences, Vol. 115, pp. 1-15, 2017. IF: 4.779, DOI:
+http://dx.doi.org/ 10.1016/j.ijthermalsci.2017.01.010
+, SCIE. Q1
+Singh S.K., Yadav M.K., Khandekar S., Measurement issues associated with surface mounting of thermopile heat flux sensors, Applied Thermal Engineering, Vol. 114, pp. 1105-1113, 2016. IF: 6.465, DOI:
+http://dx.doi.org/10.1016/j.applthermaleng. 2016.12.076
+, SCIE. Q1
+Yadav M.K., Khandekar S., Sharma P.K., An integrated approach to steam condensation studies inside reactor containments: A review, Nuclear Engineering and Design, Vol. 300, pp. 181-209, 2016. IF: 1.9, DOI:
+http://dx.doi.org/ 10.1016/j.nucengdes.2016.01.004, SCIE
+. Q1
+

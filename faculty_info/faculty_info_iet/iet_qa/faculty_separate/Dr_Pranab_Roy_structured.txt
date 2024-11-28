@@ -1,0 +1,7 @@
+
+    Q: Who is Dr Pranab Roy at JKLU?
+    A: Dr Pranab Roy is an Associate Professor in the Department of Computer Science and Engineering at JKLU, with over 19 years of professional experience. He holds a PhD from I.I.E.S.T Shibpur, where he researched Design Automation for Digital Microfluidic Biochips.
+
+    Q: What are Dr Pranab Roy's research interests?
+    A: His research interests include digital microfluidic biochips, droplet routing, wire planning, and detection mechanisms.
+    

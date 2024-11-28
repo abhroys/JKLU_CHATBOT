@@ -1,0 +1,33 @@
+Faculty Name: Dr Surbhi Chhabra
+
+--- Education ---
+Ph.D. (Electronics and Communication Engineering) from The LNM Institute of Information Technology, JaipurM.Tech. (Electronics and Communication Engineering) from The LNM Institute of Information Technology, JaipurB.Tech. (Electronics and Communication Engineering) from Marudhar Engineering College, Bikaner (Rajasthan Technical University, Kota)
+
+--- Experience ---
+Dr. Surbhi Chhabra is Assistant Professor of Electronics and Communication Engineering at the Institute of Engineering and Technology, JKLU. She holds a PhD with a major in Hardware Security from The LNM Institute of Information Technology, Jaipur.Prior to JKLU, Dr. Surbhi worked as Hardware Security Consultant at Data Security Council of India, Noida. She has published numerous peer-reviewed journals, conferences papers and book chapters of high repute. She is also serving as reviewers of IEEE Consumer Electronics Magazine, IEEE Access, IET Information Security, IET Electronics Letter, Springer International Journal of Information Security, and conferences like IEEE NCC etc.
+
+--- Teaching Interests ---
+Programming-1
+Digital Circuits and Systems
+Computer Organisation and Architecture
+Digital System Design using FPGAs
+Hardware Security
+
+--- Research Interests ---
+Hardware Security: Hardware Obfuscation, Physical Unclonable Functions
+Digital System Design using FPGAs
+
+--- Honors, Awards, and Affiliations ---
+Qualified GATE-2014
+Recipient of IEEE VLSID (2022-23) Fellowship.
+Served as a Reviewer for peer reviewed journals vi. IEEE Consumer Electronics Magazine, IET Electronics Letters, IET Information Security, IEEE Access, Springer IJIS, and conferences like IEEE NCC.
+Served as a Session Chair in IEEE ICACCI Conference 2017.
+Received B.Tech. Honours in ECE &amp; won the Best Student Award.
+
+--- Selected Publications ---
+S. Chhabra and K. Lata, “Obfuscated AES cryptosystem for secure medical imaging systems in IoMT edge devices,” Health and Technology, vol. 12, no. 5, pp. 971–986, Aug. 2022, doi: 10.1007/s12553-022-00686-3.
+S. Chhabra and K. Lata, “Hardware obfuscation of AES IP core using combinational hardware Trojan circuit for secure data transmission in IoT applications,” Concurrency and Computation: Practice and Experience, vol. 34, no. 21, May 2022, doi: 10.1002/cpe.7058.
+S. Chhabra and K. Lata, “Hardware Obfuscation of AES IP Core Using PUFs and PRNG: A Secure Cryptographic Key Generation Solution for Internet-of-Things Applications,” SN Computer Science, vol. 3, no. 4, May 2022, doi: 10.1007/s42979- 022-01194-x.
+S. Chhabra and K. Lata, “Towards the enhancement of AES IP security using hardware obfuscation technique: A practical approach for secure data transmission in IoT,” SECURITY AND PRIVACY, vol. 5, no. 4, Apr. 2022, doi: 10.1002/spy2.233.
+K. Lata, S. Chhabra, and S. Saini, “Hardware–Software Co-Design Framework for Data Encryption in Image Processing Systems for the Internet of Things Environment,” IEEE Consumer Electronics Magazine, vol. 11, no. 4, pp. 92–97, Jul. 2022, doi: 10.1109/mce.2021.3115999.
+

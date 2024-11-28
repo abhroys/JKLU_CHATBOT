@@ -1,0 +1,33 @@
+Faculty Name: Dr Deepika Prakash
+
+--- Education ---
+PhD from Delhi Technological UniversityM.Tech. (IT) from IIIT BangaloreB.Tech. (Biotechnology) from Vellore Institute of Technology
+
+--- Experience ---
+Dr. Deepika Prakash is Associate Professor in the department of Computer Science at the Institute of Engineering & Technology, JKLU. She is a PhD in the area of Data Warehouse Requirements Engineering from Delhi Technological University, Delhi. Dr. Deepika holds 10 years of experience in teaching and IT industry where she worked as Assistant Professor at NIIT, Neemrana along with Central University of Rajasthan, Mind Infotech & Design, Mascon Global Limited and Qi Network Pvt. Ltd.She has worked for more than four years in industrial R&D where her responsibilities spanned the complete life cycle of Data Warehouse development; from requirements engineering through conceptual modelling to extract-transform-load (ETL) activities. Subsequently, she moved to academic teaching and research. Prior to joining JKLU, she was at NIIT University, and also at the Department of Big Data Analytics at Central University of Rajasthan, Rajasthan.As a researcher, she has co-authored a book entitled “Data Warehouse Requirements Engineering – A Decision Based Approach” published by Springer in 2018. She is also the co-editor of a book titled “Novel Approaches to Information Systems Design” published by IGI Global in 2020. She has authored a number of papers in international journals/conferences and authored book chapters.Dr. Deepika Prakash is a reviewer of the prestigious journal, Requirements Engineering Journal, Springer. She was also an invited reviewer of Information and Software Technology Journal, Elsevier. Further, she is on the program committee of international conferences like Evaluation of Novel Approached to Software Engineering (ENASE). She has chaired sessions in international conferences like DEXA and ENASE.Apart from teaching courses for undergraduate and postgraduate students, she has also conducted courses under Industry Linked Programs (ILP). She has delivered invited lectures at a number of Institutes like IIIT Delhi and NSIT Delhi.Dr. Deepika belongs to New Delhi. She is an avid reader and a quintessential traveller.
+
+--- Teaching Interests ---
+Big Data Engineering
+Data Lakes and Data Warehouses
+NoSQL Databases
+Relational Databases
+
+--- Research Interests ---
+Data Engineering in Data Lakes
+IoT system design
+
+--- Honors, Awards, and Affiliations ---
+Reviewer Requirements Engineering Journal (REJ), Springer
+Program Committee member of ENASE from 2019 onwards
+
+--- Selected Publications ---
+About
+Admissions
+Scholarships
+Leadership
+Research
+Careers
+Pay fees online
+Contact
+Blogs
+

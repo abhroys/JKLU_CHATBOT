@@ -1,0 +1,305 @@
+import os
+import numpy as np
+import faiss
+from sentence_transformers import SentenceTransformer
+from transformers import T5Tokenizer, T5ForConditionalGeneration
+import nltk
+from nltk.corpus import wordnet
+from nltk import pos_tag, word_tokenize
+nltk.download('wordnet')
+nltk.download('omw-1.4')
+nltk.download('punkt')
+def load_single_file(file_path):
+    """
+    Reads a single text file and returns the content.
+    """
+    with open(file_path, 'r', encoding='utf-8') as f:
+        return f.read()
+
+def load_files_from_folder(folder_path):
+    """
+    Loads all text files from the given folder path.
+    """
+    file_data = {}
+    for filename in os.listdir(folder_path):
+        if filename.endswith('.txt'):  
+            file_path = os.path.join(folder_path, filename)
+            text = load_single_file(file_path)
+            file_data[filename] = text
+    return file_data
+
+def split_text_into_chunks(text, max_length=1000):
+    """
+    Splits text into chunks of approximately max_length characters without breaking sentences.
+    """
+    sentences = nltk.sent_tokenize(text)
+    chunks = []
+    current_chunk = ""
+
+    for sentence in sentences:
+        if len(current_chunk) + len(sentence) + 1 <= max_length:
+            current_chunk += " " + sentence
+        else:
+            chunks.append(current_chunk.strip())
+            current_chunk = sentence
+    if current_chunk:
+        chunks.append(current_chunk.strip())
+    
+    print(f"Total chunks created: {len(chunks)}")
+    return chunks
+
+def split_text_into_qa_pairs(text):
+    """
+    Splits the text into Q&A pairs assuming the format is a question followed by an answer.
+    """
+    pairs = text.split("\n\n")  # Split on double newlines
+    qa_pairs = []
+
+    for pair in pairs:
+        if "Q:" in pair and "A:" in pair:
+            qa_pairs.append(pair.strip())  # Clean up and append valid Q&A pairs
+        else:
+            # Handle any issues with formatting or incomplete pairs
+            print(f"Warning: Skipping invalid pair: {pair}")
+    
+    return qa_pairs
+
+
+
+# Define your folder paths
+scraped_folder = "all_extracted_files"
+qna_folder = "all_structured_qa_files"
+
+# Load Q&A files
+qna_files = load_files_from_folder(qna_folder)
+
+# Load scraped text files
+scraped_files = load_files_from_folder(scraped_folder)
+
+# Process Q&A files
+qa_data = {}
+for filename, text in qna_files.items():
+    qa_data[filename] = split_text_into_qa_pairs(text)
+
+# Process scraped files by chunking them
+scraped_doc_chunks = {}
+for filename, text in scraped_files.items():
+    scraped_doc_chunks[filename] = split_text_into_chunks(text, max_length=1000)
+
+print(f"Processed {len(qa_data)} Q&A files and {len(scraped_doc_chunks)} scraped files.")
+
+# Initialize SentenceTransformer model
+model = SentenceTransformer('all-MiniLM-L12-v2')
+
+# Generate embeddings for Q&A data
+def generate_qa_embeddings(qa_data, model):
+    embeddings_dict = {}
+    for filename, qa_pairs in qa_data.items():
+        valid_qa_pairs = [qa for qa in qa_pairs if qa.strip()]  # Filter out empty Q&A pairs
+        if valid_qa_pairs:
+            print(f"Generating embeddings for Q&A in file: {filename}")
+            embeddings = model.encode(valid_qa_pairs)
+            embeddings_dict[filename] = embeddings
+        else:
+            print(f"Warning: Skipping file {filename} as it contains empty Q&A pairs.")
+    return embeddings_dict
+
+
+qa_embeddings_dict = generate_qa_embeddings(qa_data, model)
+
+# Generate embeddings for scraped document chunks
+def generate_scraped_embeddings(doc_chunks, model):
+    """
+    Generates embeddings for each chunk of the scraped documents.
+    """
+    embeddings_dict = {}
+    for doc_name, chunks in doc_chunks.items():
+        valid_chunks = [chunk for chunk in chunks if chunk.strip()]  # Filter out empty chunks
+        if valid_chunks:
+            print(f"Generating embeddings for document: {doc_name}, Total valid chunks: {len(valid_chunks)}")
+            embeddings = model.encode(valid_chunks)
+            embeddings_dict[doc_name] = embeddings
+        else:
+            print(f"Warning: Skipping document {doc_name} as it contains empty chunks.")
+    return embeddings_dict
+
+
+scraped_embeddings_dict = generate_scraped_embeddings(scraped_doc_chunks, model)
+
+def create_combined_faiss_index(qa_embeddings_dict, scraped_embeddings_dict):
+    # Stack all Q&A embeddings
+    qa_embeddings = np.vstack(list(qa_embeddings_dict.values()))
+    
+    # Stack all scraped document embeddings
+    scraped_embeddings = np.vstack(list(scraped_embeddings_dict.values()))
+
+    assert qa_embeddings.shape[1] == scraped_embeddings.shape[1], "Embedding dimensions do not match!"
+    
+    # Combine Q&A and scraped document embeddings
+    combined_embeddings = np.vstack([qa_embeddings, scraped_embeddings])
+    
+    dimension = combined_embeddings.shape[1]
+    index = faiss.IndexFlatL2(dimension)
+    index.add(combined_embeddings)
+    
+    return index
+
+
+index = create_combined_faiss_index(qa_embeddings_dict, scraped_embeddings_dict)
+print("Combined FAISS index created with Q&A pairs and scraped document embeddings.")
+
+
+# Create a list to map indices to their source (Q&A or scraped document chunk)
+index_mapping = []
+
+# Add Q&A pairs to mapping
+for filename, qa_pairs in qa_data.items():
+    for qa in qa_pairs:
+        print(f"Adding Q&A pair from {filename} to index mapping.")
+        index_mapping.append({'type': 'qa', 'doc_name': filename, 'content': qa})
+
+# Add scraped document chunks to mapping
+for doc_name, chunks in scraped_doc_chunks.items():
+    for chunk in chunks:
+        index_mapping.append({'type': 'scraped', 'doc_name': doc_name, 'content': chunk})
+
+print(f"Total entries in index mapping: {len(index_mapping)}")
+
+def expand_query_with_synonyms_limited(query):
+    """
+    Expands the query by adding synonyms for key nouns.
+    """
+    expanded_query = set([query])
+    words = word_tokenize(query)
+    tagged_words = pos_tag(words)
+
+    for word, tag in tagged_words:
+        # Only expand for nouns (NN) and relevant keywords
+        if tag.startswith('NN'):  
+            for syn in wordnet.synsets(word):
+                for lemma in syn.lemmas():
+                    expanded_query.add(lemma.name().replace('_', ' '))
+    
+    # Return a space-separated query string
+    return " ".join(expanded_query)
+
+    def concatenate_documents(documents, max_length=2048):
+    """
+    Concatenates the full documents into a single input string.
+    """
+    combined_content = ""
+    current_length = 0
+
+    for doc in documents:
+        doc_length = len(doc['content'].split())  # Approximate token count by word count
+        if current_length + doc_length > max_length:
+            break  # Stop adding documents once the max length is reached
+        combined_content += doc['content'] + " "
+        current_length += doc_length
+
+    print(f"Final concatenated content length: {current_length} tokens.")
+    return combined_content.strip()  # Return the combined content
+
+def search_faiss_combined_with_full_doc_and_similarity(query, index, index_mapping, model, top_k=10):
+    """
+    Searches the FAISS index, retrieves full documents if any chunk is relevant, and includes similarity scores.
+    """
+    query_embedding = model.encode([query])
+    distances, indices = index.search(np.array(query_embedding), top_k)
+
+    # Dictionary to store full documents and their similarity scores
+    relevant_docs = {}
+    
+    for idx, distance in zip(indices[0], distances[0]):
+        if idx < len(index_mapping):
+            # Get the full document name based on chunk, using 'doc_name' for both types
+            full_doc = index_mapping[idx].get('doc_name', 'unknown_doc')
+
+            similarity = 1 / (1 + distance)  # Convert L2 distance to similarity
+            #print(f"Retrieved document: {full_doc}, similarity: {similarity}")
+
+            # If the document is already added, update with the highest similarity score
+            if full_doc not in relevant_docs:
+                relevant_docs[full_doc] = {
+                    'similarity': similarity,
+                    'chunks': []
+                }
+
+            # Add the chunk to the relevant document
+            relevant_docs[full_doc]['chunks'].append(index_mapping[idx]['content'])
+            #print(f"Added chunk: {index_mapping[idx]['content'][:100]}...")  # Print the first 100 chars of each chunk
+    
+    # Retrieve full documents and similarity
+    full_document_contents = []
+    for doc_name, info in relevant_docs.items():
+        full_content = "\n".join(info['chunks'])  # Combine all chunks for the same document
+        similarity = info['similarity']
+        full_document_contents.append({
+            'doc_name': doc_name,
+            'content': full_content,
+            'similarity': similarity
+        })
+        #print(f"Final document length for {doc_name}: {len(full_content.split())} words")  # Print document length
+    
+    return full_document_contents
+
+
+# Search the FAISS index and retrieve full documents with similarity scores
+query = "Tell me about rabia kamra"
+full_docs_with_similarity = search_faiss_combined_with_full_doc_and_similarity(query, index, index_mapping, model, top_k=20)
+
+# Print the full document(s) retrieved along with their similarity scores
+for i, doc in enumerate(full_docs_with_similarity):
+    print(f"\nFull Document {i+1}: (Similarity: {doc['similarity']:.4f})")
+    print(f"Document Name: {doc['doc_name']}")
+    print(f"Content:\n{doc['content']}\n{'-'*40}")
+
+
+import requests
+
+def query_groq_api(query, context, groq_api_endpoint, api_key, model="llama3-70b-8192"):
+    """
+    Sends a request to the Groq API with the provided query and document context.
+    """
+    headers = {
+        'Authorization': f'Bearer {api_key}',  # Correctly use the 'api_key' variable
+        'Content-Type': 'application/json'
+    }
+
+    # Structure the data according to Groq API's requirements
+    data = {
+    'messages': [
+        {'role': 'system', 'content': 'You are a helpful assistant.'},
+        {'role': 'user', 'content': f"{query}\n\n{context}"}
+    ],
+    'model': model
+}
+
+
+    response = requests.post(groq_api_endpoint, json=data, headers=headers)
+    
+    # Check if the request was successful
+    if response.status_code == 200:
+        return response.json()  # Parse and return the API's JSON response
+    else:
+        print(f"Error: {response.status_code}, Message: {response.text}")
+        return None
+
+# Example query
+query = "Tell me about rabia kamra"
+
+full_docs = search_faiss_combined_with_full_doc_and_similarity(query, index, index_mapping, model, top_k=10)
+
+# Properly formatted string for the concatenated context
+combined_context = concatenate_documents(full_docs, max_length=2048)
+
+# Define your Groq API endpoint and API key
+groq_api_endpoint = "https://api.groq.com/openai/v1/chat/completions"
+api_key = "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"  # Use your actual API key here
+
+# Call the Groq API and pass the query along with the concatenated document context
+response = query_groq_api(query, combined_context, groq_api_endpoint, api_key)
+
+# If the response is successful, print the generated result
+if response:
+    print(f"Generated Response:\n{response['choices'][0]['message']['content']}")

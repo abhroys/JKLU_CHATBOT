@@ -1,0 +1,44 @@
+Faculty Name: Manushi Gupta
+
+--- Education ---
+PhD, Indian Institute of Technology (Banaras Hindu University), Varanasi.M.Sc. (Mathematics), Ramjas College, Delhi University.B.Sc. (Hon.) in Mathematics, Lady Shri Ram College for Women, Delhi.
+
+--- Experience ---
+Dr. Manushi Gupta is Assistant Professor in the Department of Science and Liberal Arts at the Institute of Engineering and Technology, JKLU. She is an alumnus of IIT, BHU where she did her PhD under the supervision of Prof. Santwana Mukhopadhyay from IIT (BHU), Varanasi. She has published five papers as the first author in a number of reputed international journals and co-authored three research articles.Her area of interest lies in Mathematical Modelling on Coupled Thermomechanical Problems. Prior to joining the JKLU faculty, she was associated with Trivium Education Services Private Limited as an online tutor and subject matter expert. She believes in composite learning and thinks of teaching as a mutual process of knowledge exchange between students and teachers. She sees herself as a competent faculty member and an aspiring researcher in future.
+
+--- Teaching Interests ---
+Mathematics (BCA Sem 1)
+Statistical Computing (BCA Sem 3)
+Univariate Calculus (PGDAR 2021-22)
+
+--- Research Interests ---
+Mathematical modelling on non-conventional thermoelastic problems.
+
+--- Honors, Awards, and Affiliations ---
+Secured AIR 36 in CSIR-UGC National Eligibility Test (NET) lectureship, December 2017.
+Cleared GATE 2016 with AIR 157
+
+--- Selected Publications ---
+Gupta, Manushi
+, and Santwana Mukhopadhyay. “On the reflection of thermoelastic waves under an exact heat conduction model with a delay and temperature-dependent elastic parameters.” Waves in Random and Complex Media (2021):1-32.
+Gupta, Manushi
+, and Santwana Mukhopadhyay. “Analysis of harmonic plane wave propagation by strain and temperature rate-dependent thermoelastic model.” Waves in Random and Complex Media (2020):1-18.
+Gupta, Manushi
+, and Santwana Mukhopadhyay. “Stochastic thermoelastic interaction under a dual phase-lag model due to random temperature distribution at the boundary of a half-space.” Mathematics and Mechanics of Solids 24.6 (2019): 1873-1892.
+Gupta, Manushi
+, and Santwana Mukhopadhyay. “A study on generalized thermoelasticity theory based on a non-local heat conduction model with dual-phase-lag.” Journal of Thermal Stresses 42.9 (2019): 1123-1135.
+Gupta, Manushi
+, and Santwana Mukhopadhyay. “Galerkin-type solution for the theory of strain and temperature rate-dependent thermoelasticity.” Acta Mechanica 230.10 (2019): 3633-3643.
+Kumari, Bharti, Anil Kumar,
+Manushi Gupta
+, and Santwana Mukhopadhyay. “Analysis of a recent heat conduction model with a delay for thermoelastic interactions in an unbounded medium with a spherical cavity.” Applications & Applied Mathematics 2 (2018).
+Singh, Bhagwan,
+Manushi Gupta
+, and Santwana Mukhopadhyay. “On the fundamental solutions for the strain and temperature rate-dependent generalised thermoelasticity theory.” Journal of Thermal Stresses 43.5 (2020): 650-664.
+Jangid, Komal,
+Manushi Gupta
+, and Santwana Mukhopadhyay. “On propagation of harmonic plane waves under the Moore-Gibson-Thompson thermoelasticity theory.” Waves in Random and Complex Media (2021).
+Kant, Shashi,
+Manushi Gupta
+, Om Namha Shivay, and Santwana Mukhopadhyay. “An investigation on a two-dimensional problem of Mode-I crack in a thermoelastic medium.” Zeitschrift für angewandte Mathematik und Physik 69.2 (2018): 21.
+

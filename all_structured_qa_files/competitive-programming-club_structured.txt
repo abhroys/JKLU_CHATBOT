@@ -1,0 +1,7 @@
+
+    Q: What is the Competitive Programming Club (Code-Hub) at JKLU?
+    A: The Code-Hub is JKLU’s competitive programming club, where students enhance their coding and problem-solving skills through workshops, competitions, and projects focused on algorithmic thinking and coding challenges.
+
+    Q: What activities does the Competitive Programming Club offer?
+    A: The club organizes coding workshops, hackathons, and year-round events, providing students with the resources to participate in national and international coding competitions.
+    

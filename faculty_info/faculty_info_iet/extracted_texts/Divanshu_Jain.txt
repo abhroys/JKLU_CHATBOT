@@ -1,0 +1,26 @@
+Faculty Name: Divanshu Jain
+
+--- Education ---
+Masters (Communication Engineering) from BITS, Pilani
+
+--- Experience ---
+Mr Divanshu Jain is Assistant Professor in the Department of Electrical and Electronics Engineering at JKLU. He has completed his Masters in Communication Engineering from BITS, Pilani. Previously, he has worked at Broadcom Corporation, and Polaris FT, Chennai. He also mentors the students in Community Development Services. He has presented several research papers in the field of IoT, Signal Processing, and Antenna Design in national and international conferences.
+
+--- Teaching Interests ---
+Wireless Communication
+Antenna Designing IOT/ Wireless Network
+
+--- Research Interests ---
+SWAG Faculty Award (2018-19) at JKLUGATE (Graduate Aptitude Test in Engineering), 2009 & 2010.
+
+--- Honors, Awards, and Affiliations ---
+SWAG Faculty Award (2018-19) at JKLUGATE (Graduate Aptitude Test in Engineering), 2009 & 2010.
+
+--- Selected Publications ---
+Naman Sharma, Divanshu Jain, Khushi Bhatt, Milind Thomas Themalil, “Performance comparison of various digital modulation Schemes based on bit error rate under AWGN channel”. In the 5th International Conference on Computing Methodologies and Communication (ICCMC 2021), Proceedings published in IEEE Explore. Date 8-10 Apr, 2021, ERODE Chennai.
+Shubham Gupta, Divanshu Jain, Milind Thomas Themalil,” Electronic voting mechanism using microcontroller ATmega328p with face recognition” 5th International Conference on Computing Methodologies and Communication (ICCMC 2021), Proceedings published in IEEE Explore. Date 8-10 Apr, 2021, ERODE Chennai.
+Milind Thomas Themalil, Satya Singh, Divanshu Jain, Dinesh Yadav, Mohamad Rammal and Mayank Sharma, “Miniaturisation Capability of the Pixel Antenna for Nanosatellite Footprints”, International Conference on VLSI & Microwave and Wireless Technologies, (ICVMWT-2021) jointly organised by Madan Mohan Malaviya University of Technology, Gorakhpur (U.P.) & J.K. Institute of Applied Physics and Technology, University of Allahabad & Manipal University, Jaipur, 20-21 March, 2021.
+Agrawal, H.P., Jain, Divanshu, Kataria, Devika, and. Fundamentals of Automation Engineering: Recent Innovations in Teaching and Learning. In the 13th Asian Conference on Education (ACE2020). November 25-28, 2020: Tokyo, Japan.
+Jain, Divanshu, Yadav, Dinesh, Themalil, Milind Thomas, and Tiwari, Vivekanand. Design of Microstrip Antennas for 5G applications: A Review. In the 4th International Conference on Optical and Wireless Technologies, October 03-04, 2020: Malviya National Institute of Technology, Jaipur,
+Jain, Divanshu and Gehlot, Kanwardeep S. Biometric Finger Print based Voting Machine using ATmega328P Microcontroller. In the International Conference on Advances in Communications, Computing and Embedded Systems, September 18 – 19, 2020: GRIET Hyd, India, (paper published in Springer).
+

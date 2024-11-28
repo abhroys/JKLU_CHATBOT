@@ -1,0 +1,51 @@
+### JKLU Events Overview
+In order to provide a strong platform to researchers, academicians, and scholars, JKLU regularly organizes various national and international conferences, seminars, and workshops. These events help in building capacity for critical examination and sound judgment, contributing to the existing body of knowledge.
+
+### Major Conferences Organized by JKLU
+- 5th International Conference on “Green, Growth, Globalization & Governance”, Feb 3-5, 2017.
+- 4th Rajasthan Science Congress, Oct 17, 2016 (in association with VDS).
+- Industry Level "HR Summit", March 19-20, 2016.
+- 4th International Conference on “Growth, Globalization & Governance”, Jan 22, 2016.
+- ISG-ISRS National Symposium on Geomatics for Digital India, Dec 16-18, 2015.
+- NCSE-2014: National Conference on Science and Engineering.
+- Second International Conference on Soft Computing for Problem Solving (SocPros 2012), in association with IIT Roorkee and Liverpool Hope University, UK.
+- 7th International Conference on IT Applications and Management (in association with The Korea Database Society), Hanyang University, Seoul, Korea.
+
+### Workshops Organized by JKLU
+- **Industrial Automation**: In association with Sofcon India FM. Ltd (ISO 9001-2008 certified).
+- **Integrated Building Management System (IBMS)**.
+- **Embedded Systems**: In association with Sofcon India FM. Ltd (ISO 9001-2008 certified).
+- **Energy and Built-environment Seminar**: Experts included Prof. Dr. David Mark Leifer, University of Sydney, Australia; Prof Dr. Anil Kashyop, RICS School of Built Environment, Amity University Noida; and Prof Dr. Anupam K Singh, IET – JK Lakshmipat University Jaipur.
+
+### Workshops (Detailed Sessions)
+| Date              | Topic                                           | Expert                                              |
+|-------------------|-------------------------------------------------|-----------------------------------------------------|
+| 27 September 2018 | Growth of retail industry and contribution to GDP| Mr. Silas Paul, CEO of Miraj Group                  |
+| 25 September 2018 | Scope of Music in India                         | Mr. Dinesh Choudhary, Playback Singer               |
+| 21 September 2018 | Personality Development and Interview Skills    | Mr. Mukesh Vyas (Entrepreneur in Education & Consulting)|
+| 08 September 2018 | Music-Based Leadership Program                  | Mr. Vishal Malik, Director of Operations at McKinsey & Co|
+| 07 September 2018 | Interview Etiquette                             | Mr. Rajesh Mohan Rai, Consultant, Coach, Facilitator|
+| 04 April 2018     | Logistics and Supply Chain Management           | Experts from CII Institute of Logistics, Chennai    |
+| 30 March 2018     | Cloud, Analytics, Mobile, Security & Social     | Mr. G Ananthapadmanabhan, Business Solution Manager, IBM India Pvt. Ltd., Bangalore|
+| 26 March 2018     | Internet of Things Fundamentals and Applications| Mr. Sagar Minchnal, Application Engineer, Edgate Technology, Bengaluru|
+| 23 March 2018     | Music-Based Leadership Program                  | Mr. Vishal Malik, Director of Operations, McKinsey & Co|
+| 23 March 2018     | Ethical Hacking using Kali Linux                | Mr. Akash Kumar Kundu, Founder, D Cybertech Lab Pvt. Ltd., and Mr. Mithun Verma, Cyber-Crime Investigator|
+| 13 March 2018     | Personality Development                         | Mr. Amit Kumar, Renowned Communications Trainer     |
+| 09 March 2018     | Selection of Electrical Equipment Parameters    | Sh. B. N. Saini, Ret. Director Technical, RRVPNL, Jaipur|
+| 09 February 2018  | 32 Success Mantras                              | Shri PM Bhardwaj, Motivational Speaker, Founder of Bhardwaj Foundation, Jaipur|
+| 07 February 2018  | Higher Education Opportunities in Germany       | Ms. Dedhia, Principal Consultant of Exponent Consultancy Services, USA|
+| 15 January 2018   | Cyber Security and Digital Forensics            | Mr. Chirag Goyal, Ethical Hacker, accompanied by Mr. Divyam Goyal and Ms. Nikita Gupta|
+| 01 November 2017  | Introduction to Water Modelling Software - MIKE | Mr. Ajeet Singh (DHI India), and Mr. Manish Kumar (Water Resource Engineer, DHI India)|
+
+### Workshops by Industry Experts
+| Date              | Topic                                           | Expert                                              |
+|-------------------|-------------------------------------------------|-----------------------------------------------------|
+| 15 January 2018   | Cyber Security and Digital Forensics            | Mr. Chirag Goyal, certified ethical hacker and forensics investigator, Mr. Divyam Goyal, Ms. Nikita Gupta |
+| 7 February 2018   | Higher Education Opportunities in Germany       | Ms. Dedhia, Founder of Exponent Consultancy Services, USA |
+| 9 February 2018   | 32 Success Mantras                              | Shri PM Bhardwaj, Motivational Speaker, Bhardwaj Foundation Jaipur |
+| 9 March 2018      | Selection of Electrical Equipment Parameters    | Sh. B. N. Saini, Ret. Director Technical, RRVPNL, Jaipur |
+| 23 March 2018     | Music-Based Leadership Program                  | Mr. Vishal Malik, Director of Operations, McKinsey & Co |
+| 26 March 2018     | Ethical Hacking using Kali Linux                | Mr. Akash Kumar Kundu, Founder of D Cybertech Lab Pvt. Ltd. |
+| 26 March 2018     | Internet of Things Fundamentals and Applications| Mr. Sagar Minchnal, Application Engineer, Edgate Technology, Bengaluru |
+| 30 March 2018     | Cloud, Analytics, Mobile, Security & Social (CAMSS) | Mr. G Ananthapadmanabhan, Business Solution Manager, IBM India Pvt. Ltd., Bangalore |
+| 4 April 2018      | Logistics and Supply Chain Management           | Experts from CII Institute of Logistics, Chennai |

@@ -1,0 +1,35 @@
+Faculty Name: Sameer Mittal
+
+--- Education ---
+Industry 4.0
+Product-Service Systems
+Industrial Engineering
+Operations Management
+
+--- Experience ---
+Dr. Sameer Mittal specialises in industrial engineering and management with expertise in both quantitative and qualitative tools. The broad research area of Dr. Sameer Mittal includes the impact of Industry 4.0 technologies on operations management.
+
+--- Teaching Interests ---
+Industry 4.0
+Product-Service Systems
+Industrial Engineering
+Operations Management
+
+--- Research Interests ---
+Smart Manufacturing adoption.
+Framework for Small and Medium-sized Enterprises.
+Investigating IIoT impact on non-ownership business models using morphological box approach.
+Investigating how servitisation and product-service systems can facilitate the implementation of circular economy.
+
+--- Honors, Awards, and Affiliations ---
+National Science Foundation funding to participate and attend NAMRC 2019 conference at Erie, Pennsylvania.
+Member of Industrial Engineering honour society Alpha-Pi-Mu.
+Recipient of full tuition waiver and assistantship from West Virginia University during PhD.
+Received funding from MHRD during M
+
+--- Selected Publications ---
+Mittal, S., Khan, M. A., Purohit, J. K., Menon, K., Romero, D., & Wuest, T. (2019). A smart manufacturing adoption framework for SMEs. International Journal of Production Research, 1-19.
+Khan, M. A., Mittal, S., West, S., & Wuest , T. (2018). Review on upgradability “A product lifetime extension strategy in the context of product service systems. Journal of cleaner production, 204, 1154-1168.
+Mittal, S., Khan, M. A., Romero, D., & Wuest, T. (2018). A critical review of smart manufacturing & Industry 4.0 maturity models: Implications for small and medium-sized enterprises (SMEs). Journal of manufacturing systems, 49, 194-214.
+Mittal, S., Khan, M. A., Romero, D. & Wuest, T. (2019). Smart manufacturing: characteristics, technologies and enabling factors. Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture, 233(5), 1342-1361.
+Purohit, J. K., Mittal, M. L., Mittal, S., & Sharma, M. K. (2016). Interpretive structural modelling-based framework for mass customisation enablers: An Indian footwear case. Production Planning & Control, 27(9), 774-786.

@@ -1,0 +1,7 @@
+
+    Q: Who is Taruna Sunil at JKLU?
+    A: Taruna Sunil is a Professor in the Department of Computer Science and Engineering at JKLU. With 23 years of experience, she specializes in Computer Networks, Machine Learning, Data Mining, and Wireless Sensor Networks.
+
+    Q: What are Taruna Sunil's research interests?
+    A: Her research interests include machine learning, data mining, and cloud computing.
+    
