@@ -1,0 +1,23 @@
+# Streamlit settings
+.streamlit/
+
+# Experiment files
+
+# Generated/large files
+faiss_index.index
+index_mapping.pkl
+qa_embeddings.pkl
+scraped_data.txt
+scraped_embeddings.pkl
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+
+
+all_link_files/
+
